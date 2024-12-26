@@ -37,8 +37,10 @@ My research area lies at:
 
 # 📝 Publications
 
-- [AAAI 2025] `Chuanhao Li`, Zhen Li, Chenchen Jing, XiaoFanqing Mengan, Wenbo Ye, Yuwei Wu, and Yunde Jia.
-Consistency of Compositional Generalization across Multiple Levels.
+**Consistency of Compositional Generalization across Multiple Levels.**
+- `Chuanhao Li`, Zhen Li, Chenchen Jing, XiaoFanqing Mengan, Wenbo Ye, Yuwei Wu, and Yunde Jia.
+- AAAI 2025
+
 [[paper]](https://arxiv.org/pdf/2412.13636)[[code]](https://github.com/NeverMoreLCH/CCG)
     
 - [NeurIPS 2024] `Chuanhao Li`, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, and Kaipeng Zhang.

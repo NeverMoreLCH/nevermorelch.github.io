@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<div style="text-align: center;">Chuanhao Li</div><br><div style="text-align: center;">李川皓</div>"
+  name             : "Chuanhao Li"
   avatar           : "images/lch.jpg"
   bio              : "Beijing Institute of Technology"
   location         : #""

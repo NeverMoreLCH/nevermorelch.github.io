@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuanhao Li（李川皓）"
+title                    : "Chuanhao Li<br>（李川皓）"
 description              : "Ph.D. Candidate"
 repository               : "nevermorelch/nevermorelch.github.io"
 google_scholar_stats_use_cdn : false

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. Yuwei Wu and Prof. Yunde Jia.
+I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN).
 Now, I have also interned at the Shanghai AI Lab, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/) and Dr. [Wenqi Shao](https://wqshao126.github.io/).
 
 My research area lies at:

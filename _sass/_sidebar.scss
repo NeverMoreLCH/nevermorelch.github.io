@@ -120,12 +120,9 @@
 }
 
 .author__name {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
 }
 
 .author__name-zh {

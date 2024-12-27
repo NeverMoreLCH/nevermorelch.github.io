@@ -51,7 +51,7 @@ My research area lies at:
 # 📝 Publications
 
 **Consistency of Compositional Generalization across Multiple Levels**
-- `Chuanhao Li`, Zhen Li, Chenchen Jing, XiaoFanqing Mengan, Wenbo Ye, Yuwei Wu, and Yunde Jia.
+- `Chuanhao Li`, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, Yuwei Wu, and Yunde Jia.
 - [AAAI 2025] [[paper]](https://arxiv.org/pdf/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
 
 **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**

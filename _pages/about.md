@@ -34,7 +34,7 @@ My research area lies at:
 - *2017.09 - 2020.01*, <a href="https://www.neu.edu.cn/"><img class="png" src="/images/NEU_logo.png" width="23pt"></a> Master in CS, Northeastern University, Shenyang, Liaoning, China
 - *2013.09 - 2017.06*, <a href="https://www.hrbust.edu.cn/"><img class="png" src="/images/HRBUST_logo.png" width="23pt"></a>  Bachelor in CS, Harbin University of Science and Technology, Harbin, Heilongjiang, China
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
 
@@ -45,6 +45,8 @@ My research area lies at:
 **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
 - Fanqing Meng*, Jin Wang*, `Chuanhao Li*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao.
 - [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
+
+<span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
 

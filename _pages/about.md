@@ -36,6 +36,16 @@ My research area lies at:
  
 <span class='anchor' id='-lwzl'></span>
 
+# ⚡ Preprint
+
+**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
+- Pengfei Zhou, Xiaopeng Peng, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang.
+- [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
+
+**MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
+- Fanqing Meng*, Jin Wang*, `Chuanhao Li*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao.
+- [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
+
 # 📝 Publications
 
 **Consistency of Compositional Generalization across Multiple Levels**

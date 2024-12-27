@@ -5,7 +5,10 @@ main:
 
   - title: "Education"
     url: "/#-xl"
-
+    
+  - title: "Preprint"
+    url: "/#-arxiv"
+    
   - title: "Publications"
     url: "/#-lwzl"
 

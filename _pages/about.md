@@ -43,7 +43,7 @@ My research area lies at:
 - [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
 
 **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
-- Fanqing Meng\*, Jin Wang\*, `Chuanhao Li\*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao.
+- Fanqing Meng\*, Jin Wang\*, `Chuanhao Li*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao.
 - [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
 
 <span class='anchor' id='-lwzl'></span>

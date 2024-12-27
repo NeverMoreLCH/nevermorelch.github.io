@@ -19,6 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN).
+I received my Master degree in 2020 from Northeastern University supervised by Prof. [Shukuan Lin](http://www.cse.neu.edu.cn/2019/0303/c6664a159411/page.htm), and Bachlor degree in 2017 from Harbin University of Science and Technology.
 Now, I have also interned at the Shanghai AI Lab, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/) and Dr. [Wenqi Shao](https://wqshao126.github.io/).
 
 My research area lies at:
@@ -29,9 +30,9 @@ My research area lies at:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2020.09 - 2025.03*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> Ph.d. in CS, Beijing Institute of Technology, Beijing, China
-- *2017.09 - 2020.01*, <a href="https://www.neu.edu.cn/"><img class="png" src="/images/NEU_logo.png" width="23pt"></a> M.S. in CS, Northeastern University, Shenyang, Liaoning, China
-- *2013.09 - 2017.06*, <a href="https://www.hrbust.edu.cn/"><img class="png" src="/images/HRBUST_logo.png" width="23pt"></a>  B.S. in CS, Harbin University of Science and Technology, Harbin, Heilongjiang, China
+- *2020.09 - 2025.03*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> Ph.D. in CS, Beijing Institute of Technology, Beijing, China
+- *2017.09 - 2020.01*, <a href="https://www.neu.edu.cn/"><img class="png" src="/images/NEU_logo.png" width="23pt"></a> Master in CS, Northeastern University, Shenyang, Liaoning, China
+- *2013.09 - 2017.06*, <a href="https://www.hrbust.edu.cn/"><img class="png" src="/images/HRBUST_logo.png" width="23pt"></a>  Bachelor in CS, Harbin University of Science and Technology, Harbin, Heilongjiang, China
  
 <span class='anchor' id='-lwzl'></span>
 

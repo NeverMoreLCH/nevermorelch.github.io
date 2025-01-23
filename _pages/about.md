@@ -48,7 +48,7 @@ My research area lies at:
 
 **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
 - Fanqing Meng\*, Jin Wang\*, `Chuanhao Li*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao.
-- [[ICLR 2025]] [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
+- [ICLR 2025] [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
 
 **Consistency of Compositional Generalization across Multiple Levels**
 - `Chuanhao Li`, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, Yuwei Wu, and Yunde Jia.

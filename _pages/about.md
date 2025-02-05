@@ -90,11 +90,12 @@ My research area lies at:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Activities
-- Conference Reviewer of NeurIPS 2024; CVPR 2024; ICML 2025; IJCAI 2025; MM 2024.
+- Conference Reviewer of ICML 2025, IJCAI 2025, NeurIPS 2024, CVPR 2024, MM 2024, etc.
+- Journal Reviewer of T-MM.
 - Invited Speaker in [The 3rd SMBU-BIT Machine Intelligence Graduate Student Forum](https://www.smbu.edu.cn/zskxwhj/info/1097/3708.htm).
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work Experience
 - *2024.01 - Present*, Intern, Shanghai AI Lab, Shanghai, China
-- *2019.07- 2019.10*, Intern, UISEE, Beijing, China
+- *2019.07 - 2019.10*, Intern, UISEE, Beijing, China

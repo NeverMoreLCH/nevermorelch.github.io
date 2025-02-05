@@ -85,7 +85,10 @@ My research area lies at:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Selected Awards
-- *2023.01*,  the second prize in the multi-modal technology innovation competition of the first “Xingzhi Cup” National Artificial Intelligence Innovation Application Competition
+- *2023.01*, the second prize in the multi-modal technology innovation competition of the first “Xingzhi Cup” National Artificial Intelligence Innovation Application Competition
+- *2016.05*, the first prize in the CCPC Heilongjiang Collegiate Programming Contest
+- *2015.05*, the first prize in the CCPC Heilongjiang Collegiate Programming Contest
+- *2014.07*, the silver medal in the ACM-ICPC Collegiate Programming Contest Shanghai Invitational
 
 <span class='anchor' id='-xshy'></span>
 

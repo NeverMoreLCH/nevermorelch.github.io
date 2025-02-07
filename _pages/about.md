@@ -58,6 +58,10 @@ My research area lies at:
 - `Chuanhao Li`, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, and Kaipeng Zhang.
 - [NeurIPS 2024] [[paper]](https://arxiv.org/abs/2405.14554) [[code]](https://nevermorelch.github.io/SearchLVLMs.github.io/)
 
+**ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
+- Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao, and Kaipeng Zhang.
+- [NeurIPS 2024] [[paper]](https://arxiv.org/abs/2403.20194) [[code]](https://github.com/shirlyliu64/ConvBench)
+
 **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
 - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, Mingliang Zhai, and Yunde Jia.
 - [ECCV 2024] [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06434.pdf) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
@@ -66,17 +70,13 @@ My research area lies at:
 - `Chuanhao Li`, Chenchen Jing, Zhen Li, Mingliang Zhai, Yuwei Wu, and Yunde Jia.
 - [EMNLP 2024] [[paper]](https://aclanthology.org/2024.emnlp-main.996.pdf)
 
-**Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
-- `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, and Yunde Jia.
-- [CVPR 2023] [[paper]](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_Exploring_the_Effect_of_Primitives_for_Compositional_Generalization_in_Vision-and-Language_CVPR_2023_paper.pdf) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
-
 **Adversarial Sample Synthesis for Visual Question Answering**
 - `Chuanhao Li`, Chenchen Jing, Zhen Li, Yuwei Wu, and Yunde Jia.
 - [TOMM 2024] [[paper]](https://dl.acm.org/doi/10.1145/3688848)
 
-**ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
-- Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao, and Kaipeng Zhang.
-- [NeurIPS 2024] [[paper]](https://arxiv.org/abs/2403.20194) [[code]](https://github.com/shirlyliu64/ConvBench)
+**Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
+- `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, and Yunde Jia.
+- [CVPR 2023] [[paper]](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_Exploring_the_Effect_of_Primitives_for_Compositional_Generalization_in_Vision-and-Language_CVPR_2023_paper.pdf) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
 
 **Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing**
 - Chenchen Jing, Yunde Jia, Yuwei Wu, `Chuanhao Li`, and Qi Wu.

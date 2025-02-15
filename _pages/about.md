@@ -93,7 +93,7 @@ My research area lies at:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Activities
-- Conference Reviewer of MM2025, ICML 2025, IJCAI 2025, NeurIPS 2024, CVPR 2024, MM 2024, etc.
+- Conference Reviewer of MM2025, ICML 2025, IJCAI 2025, CVPR 2024, NeurIPS 2024, MM 2024, etc.
 - Journal Reviewer of T-MM.
 - Invited Speaker in [The 3rd SMBU-BIT Machine Intelligence Graduate Student Forum](https://www.smbu.edu.cn/zskxwhj/info/1097/3708.htm).
 

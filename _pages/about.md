@@ -46,7 +46,7 @@ Not yet
 
 **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
 - Pengfei Zhou, Xiaopeng Peng, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang.
-- [[CVPR 2025]] [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
+- [CVPR 2025] [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
 
 **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
 - Fanqing Meng\*, Jin Wang\*, `Chuanhao Li*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao. (\* equal contribution)

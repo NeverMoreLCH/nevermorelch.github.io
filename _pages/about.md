@@ -38,7 +38,9 @@ My research area lies at:
 
 # ⚡ Preprint
 
-Not yet
+**ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
+- Jianwen Sun, Yukang Feng, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang.
+- [arXiv 2025] [[paper]](https://arxiv.org/abs/2503.06542) [[code]](https://armor.github.io/)
 
 <span class='anchor' id='-lwzl'></span>
 

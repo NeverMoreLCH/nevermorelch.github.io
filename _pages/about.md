@@ -72,7 +72,7 @@ My research area lies at:
 
 **In-Context Compositional Generalization for Large Vision-Language Models**
 - `Chuanhao Li`, Chenchen Jing, Zhen Li, Mingliang Zhai, Yuwei Wu, and Yunde Jia.
-- [EMNLP 2024] [[paper]](https://aclanthology.org/2024.emnlp-main.996.pdf)
+- [EMNLP 2024] [Main Conference] [[paper]](https://aclanthology.org/2024.emnlp-main.996.pdf)
 
 **Adversarial Sample Synthesis for Visual Question Answering**
 - `Chuanhao Li`, Chenchen Jing, Zhen Li, Yuwei Wu, and Yunde Jia.

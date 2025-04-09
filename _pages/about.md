@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a research in Shanghai AI Lab, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/) and Dr. [Wenqi Shao](https://wqshao126.github.io/).
-I recevied my Ph.D. degree in 2024 from Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN),
+I recevied my Ph.D. degree in 2025 from Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN),
 Master degree in 2020 from Northeastern University supervised by Prof. [Shukuan Lin](http://www.cse.neu.edu.cn/2019/0303/c6664a159411/page.htm),
 and Bachlor degree in 2017 from Harbin University of Science and Technology.
 

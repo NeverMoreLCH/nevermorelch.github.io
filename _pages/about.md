@@ -66,7 +66,7 @@ My research area lies at:
 
 **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
 - Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao, and Kaipeng Zhang.
-- [NeurIPS 2024] [[paper]](https://arxiv.org/abs/2403.20194) [[code]](https://github.com/shirlyliu64/ConvBench)
+- [NeurIPS 2024] **[Spotlight]** [[paper]](https://arxiv.org/abs/2403.20194) [[code]](https://github.com/shirlyliu64/ConvBench)
 
 **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
 - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, Mingliang Zhai, and Yunde Jia.

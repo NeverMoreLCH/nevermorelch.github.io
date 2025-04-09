@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chuanhao Li - 李川皓"
-description              : "Researcher, Shanghai AI Lab"
+description              : #"Researcher, Shanghai AI Lab"
 repository               : "nevermorelch/nevermorelch.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Chuanhao Li"
   name_zh          : "（李川皓）"
   avatar           : "images/lch.jpg"
-  bio              : #""
+  bio              : "Researcher, Shanghai AI Lab"
   location         : #""
   employer         : #""
   pubmed           : 

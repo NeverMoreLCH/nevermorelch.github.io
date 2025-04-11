@@ -62,7 +62,7 @@ My research area lies at:
 
 **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
 - `Chuanhao Li`, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, and Kaipeng Zhang.
-- [NeurIPS 2024] [[paper]](https://arxiv.org/abs/2405.14554) [[code]](https://nevermorelch.github.io/SearchLVLMs.github.io/)
+- [NeurIPS 2024] [[paper]](https://nips.cc/virtual/2024/poster/93813) [[code]](https://nevermorelch.github.io/SearchLVLMs.github.io/)
 
 **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
 - Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao, and Kaipeng Zhang.

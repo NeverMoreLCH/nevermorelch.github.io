@@ -44,6 +44,10 @@ My research area lies at:
 - Jianwen Sun, Yukang Feng, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang.
 - [arXiv 2025] [[paper]](https://arxiv.org/abs/2503.06542) [[code]](https://armor.github.io/)
 
+**MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
+- Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You, and Kaipeng Zhang.
+- [arXiv 2025] [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12)
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications

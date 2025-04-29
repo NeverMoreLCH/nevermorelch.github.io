@@ -52,6 +52,10 @@ My research area lies at:
 
 # 📝 Selected Publications
 
+**Multi-Sourced Compositional Generalization in Visual Question Answering**
+- `Chuanhao Li`, Wenbo Ye, Zhen Li, Yuwei Wu, Yunde Jia.
+- [IJCAI 2025] [[paper]]() [[code]]()
+
 **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
 - Pengfei Zhou, Xiaopeng Peng, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang.
 - [CVPR 2025] **[Oral] (Top 3.3%)** [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)

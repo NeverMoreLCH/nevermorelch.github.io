@@ -126,7 +126,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, Mingliang Zhai, and Yunde Jia.
-  - [ECCV 2024] [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06434.pdf) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
+  - [ECCV 2024] [[paper]](https://eccv.ecva.net/virtual/2024/poster/1492) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 </div>
 </div>
   
@@ -134,7 +134,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **In-Context Compositional Generalization for Large Vision-Language Models**
   - `Chuanhao Li`, Chenchen Jing, Zhen Li, Mingliang Zhai, Yuwei Wu, and Yunde Jia.
-  - [EMNLP 2024] [Main Conference] [[paper]](https://aclanthology.org/2024.emnlp-main.996.pdf)
+  - [EMNLP 2024] [Main Conference] [[paper]](https://aclanthology.org/2024.emnlp-main.996/)
 </div>
 </div>
 
@@ -150,7 +150,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, and Yunde Jia.
-  - [CVPR 2023] [[paper]](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_Exploring_the_Effect_of_Primitives_for_Compositional_Generalization_in_Vision-and-Language_CVPR_2023_paper.pdf) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
+  - [CVPR 2023] [[paper]](https://ieeexplore.ieee.org/document/10205142) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
 </div>
 </div>
 
@@ -158,7 +158,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing**
   - Chenchen Jing, Yunde Jia, Yuwei Wu, `Chuanhao Li`, and Qi Wu.
-  - [AAAI 2022] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19997/19756)
+  - [AAAI 2022] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19997)
 </div>
 </div>
     

@@ -40,9 +40,16 @@ My research area lies at:
 
 # ⚡ Preprint
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pipeline/AAAI2025_ZHAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **IA-T2I: Internet-Augmented Text-to-Image Generation**
 - `Chuanhao Li`, Jianwen Sun, Yukang Feng, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang.
 - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779) [[code]]()
+  
+  [[PDF](../paper/AAAI25_ZHAI.pdf)] [[Project](https://github.com/zmling22/KAD)]
+</div>
+</div>
 
 **ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
 - Jianwen Sun, Yukang Feng, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang.

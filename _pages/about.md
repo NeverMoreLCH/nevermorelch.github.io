@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 📜 Biography
 <span class='anchor' id='about-me'></span>
 
+# 📜 Biography
 I am a research in Shanghai AI Lab, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/) and Dr. [Wenqi Shao](https://wqshao126.github.io/).
 I recevied my Ph.D. degree in 2025 from Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN),
 Master degree in 2020 from Northeastern University supervised by Prof. [Shukuan Lin](http://www.cse.neu.edu.cn/2019/0303/c6664a159411/page.htm),
@@ -39,7 +39,6 @@ My research area lies at:
 <span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **IA-T2I: Internet-Augmented Text-to-Image Generation**
@@ -56,7 +55,6 @@ My research area lies at:
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
@@ -65,15 +63,9 @@ My research area lies at:
 </div>
 </div>
 
-
-
-
-
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/thumbnail/2025-ijcai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Multi-Sourced Compositional Generalization in Visual Question Answering**
@@ -89,7 +81,7 @@ My research area lies at:
   - [CVPR 2025] **[Oral] (Top 3.3%)** [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
 </div>
 </div>
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/thumbnail/2025-iclr-meng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
@@ -97,7 +89,7 @@ My research area lies at:
   - [ICLR 2025] [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
 </div>
 </div>
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/thumbnail/2025-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Consistency of Compositional Generalization across Multiple Levels**
@@ -105,7 +97,7 @@ My research area lies at:
   - [AAAI 2025] [[paper]](https://arxiv.org/abs/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
 </div>
 </div>
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/thumbnail/2024-neurips-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
@@ -113,7 +105,7 @@ My research area lies at:
   - [NeurIPS 2024] [[paper]](https://nips.cc/virtual/2024/poster/93813) [[code]](https://nevermorelch.github.io/SearchLVLMs.github.io/)
 </div>
 </div>
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/thumbnail/2024-neurips-liu.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
@@ -121,7 +113,7 @@ My research area lies at:
   - [NeurIPS 2024] **[Spotlight]** [[paper]](https://arxiv.org/abs/2403.20194) [[code]](https://github.com/shirlyliu64/ConvBench)
 </div>
 </div>
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/thumbnail/2024-eccv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
@@ -129,7 +121,7 @@ My research area lies at:
   - [ECCV 2024] [[paper]](https://eccv.ecva.net/virtual/2024/poster/1492) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 </div>
 </div>
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/thumbnail/2024-emnlp-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **In-Context Compositional Generalization for Large Vision-Language Models**

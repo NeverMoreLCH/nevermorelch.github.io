@@ -102,7 +102,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **Consistency of Compositional Generalization across Multiple Levels**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, Yuwei Wu, and Yunde Jia.
-  - [AAAI 2025] [[paper]](https://arxiv.org/pdf/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
+  - [AAAI 2025] [[paper]](https://arxiv.org/abs/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
 </div>
 </div>
   

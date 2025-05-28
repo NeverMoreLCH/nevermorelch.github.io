@@ -74,7 +74,7 @@ My research area lies at:
 # 📝 Selected Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-ijcai-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/thumbnail/2025-ijcai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Multi-Sourced Compositional Generalization in Visual Question Answering**
   - `Chuanhao Li`, Wenbo Ye, Zhen Li, Yuwei Wu, Yunde Jia.
@@ -82,7 +82,7 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-cvpr-zhou.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/thumbnail/2025-cvpr-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
   - Pengfei Zhou, Xiaopeng Peng, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang.
@@ -90,7 +90,7 @@ My research area lies at:
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-iclr-meng.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/thumbnail/2025-iclr-meng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
   - Fanqing Meng\*, Jin Wang\*, `Chuanhao Li*`, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, and Wenqi Shao. (\* equal contribution)
@@ -98,7 +98,7 @@ My research area lies at:
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-aaai-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/thumbnail/2025-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Consistency of Compositional Generalization across Multiple Levels**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, Yuwei Wu, and Yunde Jia.
@@ -106,7 +106,7 @@ My research area lies at:
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2024-neurips-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/thumbnail/2024-neurips-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, and Kaipeng Zhang.
@@ -114,7 +114,7 @@ My research area lies at:
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2024-neurips-liu.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/thumbnail/2024-neurips-liu.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
   - Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao, and Kaipeng Zhang.
@@ -122,7 +122,7 @@ My research area lies at:
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2024-eccv-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/thumbnail/2024-eccv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, Mingliang Zhai, and Yunde Jia.
@@ -130,7 +130,7 @@ My research area lies at:
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2024-emnlp-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/thumbnail/2024-emnlp-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **In-Context Compositional Generalization for Large Vision-Language Models**
   - `Chuanhao Li`, Chenchen Jing, Zhen Li, Mingliang Zhai, Yuwei Wu, and Yunde Jia.
@@ -138,7 +138,7 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2024-tomm-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2024</div><img src='images/thumbnail/2024-tomm-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Adversarial Sample Synthesis for Visual Question Answering**
   - `Chuanhao Li`, Chenchen Jing, Zhen Li, Yuwei Wu, and Yunde Jia.
@@ -146,7 +146,7 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2023-cvpr-li.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/thumbnail/2023-cvpr-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
   - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu, and Yunde Jia.
@@ -154,7 +154,7 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2022-aaai-jing.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/thumbnail/2022-aaai-jing.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing**
   - Chenchen Jing, Yunde Jia, Yuwei Wu, `Chuanhao Li`, and Qi Wu.

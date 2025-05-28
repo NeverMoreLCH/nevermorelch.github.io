@@ -40,7 +40,7 @@ My research area lies at:
 
 # ⚡ Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym" width="40%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **IA-T2I: Internet-Augmented Text-to-Image Generation**
 - `Chuanhao Li`, Jianwen Sun, Yukang Feng, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang.

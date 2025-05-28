@@ -40,6 +40,30 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 设置团队成员行样式 */
+.team-members-row {
+    display: flex; /* 使用Flexbox布局 */
+    justify-content: space-between; /* 在行中均匀分布团队成员 */
+    margin-bottom: 20px; /* 每行之间的间距 */
+}
+
+/* 设置团队成员块样式 */
+.team-member {
+    text-align: center; /* 团队成员块中的文本居中 */
+    width: 30%; /* 每个团队成员块占据行的30%宽度 */
+}
+
+/* 设置照片样式 */
+.team-member-photo {
+    width: 100px; /* 照片宽度 */
+    height: 100px; /* 照片高度 */
+    border-radius: 50%; /* 照片圆形裁剪 */
+    object-position: 50% 10%; /* 设置裁剪中心位置为相对于容器宽高的 30% 和 20% 处 */
+    object-fit: cover; /* 让照片在保持宽高比的同时覆盖整个容器 */
+    margin-bottom: 10px; /* 照片与文本之间的间距 */
+}
+
+
 .paper-box {
     display: flex;
     justify-content: left;

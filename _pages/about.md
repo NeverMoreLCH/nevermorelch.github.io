@@ -42,9 +42,9 @@ My research area lies at:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**IA-T2I: Internet-Augmented Text-to-Image Generation**
-- `Chuanhao Li`, Jianwen Sun, Yukang Feng, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang.
-- [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779) [[code]]()
+  **IA-T2I: Internet-Augmented Text-to-Image Generation**
+  - `Chuanhao Li`, Jianwen Sun, Yukang Feng, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779) [[code]]()
 </div>
 </div>
 

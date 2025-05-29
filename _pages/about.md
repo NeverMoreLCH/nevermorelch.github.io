@@ -63,6 +63,15 @@ My research area lies at:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-chang.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**
+  - Yifan Chang, Yukang Feng, Jianwen Sun, Jiaxin Ai, `Chuanhao Li`, S. Kevin Zhou, and Kaipeng Zhang.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.22126) [[code]]()
+</div>
+</div>
+
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications

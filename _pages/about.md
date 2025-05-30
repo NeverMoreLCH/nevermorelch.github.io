@@ -79,7 +79,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **Multi-Sourced Compositional Generalization in Visual Question Answering**
   - `Chuanhao Li`, Wenbo Ye, Zhen Li, Yuwei Wu, Yunde Jia.
-  - [IJCAI 2025] [[paper]]() [[code]](https://github.com/NeverMoreLCH/MSCG)
+  - [IJCAI 2025] [[paper]](https://arxiv.org/abs/2505.23045) [[code]](https://github.com/NeverMoreLCH/MSCG)
 </div>
 </div>
 

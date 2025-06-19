@@ -39,6 +39,14 @@ My research area lies at:
 <span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Sekai: A Video Dataset towards World Exploration**
+  - Zhen Li\*, `Chuanhao Li*📧`, ..., Yuwei Wu📧, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang📧. (\* equal contribution)
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2506.15675) [[homepage]](https://lixsp11.github.io/sekai-project/) [[dataset]](https://huggingface.co/datasets/Lixsp11/Sekai-Project) [[code]](https://github.com/Lixsp11/sekai-codebase)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **IA-T2I: Internet-Augmented Text-to-Image Generation**

@@ -51,7 +51,15 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **IA-T2I: Internet-Augmented Text-to-Image Generation**
   - `Chuanhao Li`, Jianwen Sun, Yukang Feng, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779) [[code]]()
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**
+  - Yukang Feng, Jianwen Sun, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2506.09427)
 </div>
 </div>
 
@@ -75,7 +83,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**
   - Yifan Chang, Yukang Feng, Jianwen Sun, Jiaxin Ai, `Chuanhao Li`, S. Kevin Zhou, and Kaipeng Zhang.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.22126) [[code]]()
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.22126)
 </div>
 </div>
 

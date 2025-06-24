@@ -27,6 +27,7 @@ My research area lies at:
 - vision-and-language
 - image/video generation
 - multimodal large language models
+- internet-augmented generation
 - compositional generalization
 
 <span class='anchor' id='-xl'></span>

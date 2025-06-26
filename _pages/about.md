@@ -40,6 +40,8 @@ My research area lies at:
 <span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
+<p style="color:red;"><strong>(* indicates equal contribution, + indicates corresponding author)</strong></p>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Sekai: A Video Dataset towards World Exploration**

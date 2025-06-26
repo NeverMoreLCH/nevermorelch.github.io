@@ -77,7 +77,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
-  - Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12)
 </div>
 </div>
@@ -121,7 +121,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/thumbnail/2025-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Consistency of Compositional Generalization across Multiple Levels**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`, Zhen Li, Chenchen Jing<span style="color:blue;">+</span>, Xiaomeng Fan, Wenbo Ye, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
   - [AAAI 2025] [[paper]](https://arxiv.org/abs/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
 </div>
 </div>
@@ -145,7 +145,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/thumbnail/2024-eccv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu<span style="color:blue;">+</span>, Mingliang Zhai, and Yunde Jia.
+  - `Chuanhao Li`, Zhen Li, Chenchen Jing<span style="color:blue;">+</span>, Yuwei Wu<span style="color:blue;">+</span>, Mingliang Zhai, and Yunde Jia.
   - [ECCV 2024] [[paper]](https://eccv.ecva.net/virtual/2024/poster/1492) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 </div>
 </div>
@@ -169,8 +169,8 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/thumbnail/2023-cvpr-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
-  - [CVPR 2023] [[paper]](https://ieeexplore.ieee.org/document/10205142) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
+  - `Chuanhao Li`, Zhen Li, Chenchen Jing<span style="color:blue;">+</span>, Yunde Jia, and Yuwei Wu<span style="color:blue;">+</span>.
+  - [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Exploring_the_Effect_of_Primitives_for_Compositional_Generalization_in_Vision-and-Language_CVPR_2023_paper.html) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
 </div>
 </div>
 

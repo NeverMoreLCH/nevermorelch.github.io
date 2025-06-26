@@ -40,12 +40,12 @@ My research area lies at:
 <span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
-<p style="color:red;"><strong>(* indicates equal contribution, + indicates corresponding author)</strong></p>
+<p style="color:red;"><strong>* indicates equal contribution,</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Sekai: A Video Dataset towards World Exploration**
-  - Zhen Li<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*+</span>, ..., Yuwei Wu📧, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang📧. (\* equal contribution)
+  - Zhen Li<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span><span style="color:blue;">+</span>, ..., Yuwei Wu<span style="color:blue;">+</span>, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2506.15675) [[homepage]](https://lixsp11.github.io/sekai-project/) [[dataset]](https://huggingface.co/datasets/Lixsp11/Sekai-Project) [[code]](https://github.com/Lixsp11/sekai-codebase)
 </div>
 </div>

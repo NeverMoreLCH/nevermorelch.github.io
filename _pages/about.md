@@ -77,7 +77,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
-  - Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Pengfei Zhou<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12)
 </div>
 </div>
@@ -85,7 +85,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-chang.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**
-  - Yifan Chang, Yukang Feng, Jianwen Sun, Jiaxin Ai, `Chuanhao Li`, S. Kevin Zhou, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Yifan Chang<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, S. Kevin Zhou, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.22126)
 </div>
 </div>
@@ -105,7 +105,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/thumbnail/2025-cvpr-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
-  - Pengfei Zhou, Xiaopeng Peng, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Pengfei Zhou<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [CVPR 2025] **[Oral] (Top 3.3%)** [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
 </div>
 </div>

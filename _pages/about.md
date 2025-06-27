@@ -53,7 +53,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **IA-T2I: Internet-Augmented Text-to-Image Generation**
-  - `Chuanhao Li`, Jianwen Sun, Yukang Feng, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779)
 </div>
 </div>
@@ -61,7 +61,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**
-  - Yukang Feng, Jianwen Sun, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2506.09427)
 </div>
 </div>
@@ -69,7 +69,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
-  - Jianwen Sun, Yukang Feng, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2503.06542) [[code]](https://armor.github.io/)
 </div>
 </div>
@@ -97,7 +97,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/thumbnail/2025-ijcai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Multi-Sourced Compositional Generalization in Visual Question Answering**
-  - `Chuanhao Li`, Wenbo Ye, Zhen Li, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Wenbo Ye<span style="color:red;">*</span>, Zhen Li, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
   - [IJCAI 2025] [[paper]](https://arxiv.org/abs/2505.23045) [[code]](https://github.com/NeverMoreLCH/MSCG)
 </div>
 </div>
@@ -121,7 +121,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/thumbnail/2025-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Consistency of Compositional Generalization across Multiple Levels**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing<span style="color:blue;">+</span>, Xiaomeng Fan, Wenbo Ye, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Zhen Li<span style="color:red;">*</span>, Chenchen Jing<span style="color:blue;">+</span>, Xiaomeng Fan, Wenbo Ye, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
   - [AAAI 2025] [[paper]](https://arxiv.org/abs/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
 </div>
 </div>
@@ -145,7 +145,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/thumbnail/2024-eccv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing<span style="color:blue;">+</span>, Yuwei Wu<span style="color:blue;">+</span>, Mingliang Zhai, and Yunde Jia.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Zhen Li<span style="color:red;">*</span>, Chenchen Jing<span style="color:blue;">+</span>, Yuwei Wu<span style="color:blue;">+</span>, Mingliang Zhai, and Yunde Jia.
   - [ECCV 2024] [[paper]](https://eccv.ecva.net/virtual/2024/poster/1492) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 </div>
 </div>

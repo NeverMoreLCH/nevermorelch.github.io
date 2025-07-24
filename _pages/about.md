@@ -45,7 +45,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-mao.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **YUME: An Interactive World Generation Model**
-  - Xiaofeng Mao, Shaoheng Lin, Zhen Li, Chuanhao Li, Wenshuo Peng, Tong He, Jiangmiao Pang, Mingmin Chi<span style="color:blue;">+</span>, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Xiaofeng Mao, Shaoheng Lin, Zhen Li, `Chuanhao Li`, Wenshuo Peng, Tong He, Jiangmiao Pang, Mingmin Chi<span style="color:blue;">+</span>, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2507.17744) [[homepage]](https://stdstu12.github.io/YUME-Project/) [[code]](https://github.com/stdstu12/YUME)
 </div>
 </div>

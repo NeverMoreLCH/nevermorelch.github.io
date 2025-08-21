@@ -102,6 +102,14 @@ My research area lies at:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/thumbnail/2025-emnlp-li.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles**
+  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Qi Chen, Diping Song, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [EMNLP 2025] [Main Conference] [[paper]]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/thumbnail/2025-ijcai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Multi-Sourced Compositional Generalization in Visual Question Answering**
@@ -211,3 +219,4 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+

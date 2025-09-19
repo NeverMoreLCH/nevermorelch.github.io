@@ -50,14 +50,6 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **Sekai: A Video Dataset towards World Exploration**
-  - Zhen Li<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span><span style="color:blue;">+</span>, ..., Yuwei Wu<span style="color:blue;">+</span>, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2506.15675) [[homepage]](https://lixsp11.github.io/sekai-project/) [[dataset]](https://huggingface.co/datasets/Lixsp11/Sekai-Project) [[code]](https://github.com/Lixsp11/sekai-codebase)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **IA-T2I: Internet-Augmented Text-to-Image Generation**
@@ -102,6 +94,14 @@ My research area lies at:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Sekai: A Video Dataset towards World Exploration**
+  - Zhen Li<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span><span style="color:blue;">+</span>, ..., Yuwei Wu<span style="color:blue;">+</span>, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [NeurIPS 2025] [[paper]](https://arxiv.org/abs/2506.15675) [[homepage]](https://lixsp11.github.io/sekai-project/) [[dataset]](https://huggingface.co/datasets/Lixsp11/Sekai-Project) [[code]](https://github.com/Lixsp11/sekai-codebase)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/thumbnail/2025-emnlp-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles**
@@ -219,6 +219,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

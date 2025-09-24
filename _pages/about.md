@@ -42,6 +42,14 @@ My research area lies at:
 # ⚡ Preprint
 <p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lishilong.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents**
+  - Shilong Li<span style="color:red;">*</span>, Xingyuan Bu<span style="color:red;">*</span><span style="color:blue;">+</span>, ..., `Chuanhao Li`, ..., Ruizhe Ding, and Shilei Wen<span style="color:blue;">+</span>.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2508.13186) [[code]](https://github.com/MMBrowseComp/MM-BrowseComp) [[dataset]](https://huggingface.co/datasets/mmbrowsecomp/MMBrowseComp)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-mao.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **YUME: An Interactive World Generation Model**
@@ -219,6 +227,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

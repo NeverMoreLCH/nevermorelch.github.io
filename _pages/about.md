@@ -26,7 +26,6 @@ and Bachlor degree in 2017 from Harbin University of Science and Technology.
 My research area lies at:
 - vision-and-language
 - image/video generation
-- multimodal large language models
 - internet-augmented generation
 - compositional generalization
 
@@ -227,6 +226,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

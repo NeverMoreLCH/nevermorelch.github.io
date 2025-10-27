@@ -41,6 +41,14 @@ My research area lies at:
 # ⚡ Preprint
 <p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhai.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Multi-Step Reasoning for Embodied Question Answering via Tool Augmentation**
+  - Mingliang Zhai<span style="color:red;">*</span>, Hansheng Liang<span style="color:red;">*</span>, Xiaomeng Fan<span style="color:red;">*</span>, Zhi Gao, `Chuanhao Li`, Che Sun, Xu Bin, Yuwei Wu, and Yunde Jia.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.20310)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lishilong.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents**
@@ -226,6 +234,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

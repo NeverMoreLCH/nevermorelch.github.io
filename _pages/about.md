@@ -52,7 +52,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun-dialogue.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Dialogue as Discovery: Navigating Human Intent Through Principled Inquiry**
-  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Yifan Chang<span style="color:red;">*</span>, Chuanhao Li, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Yifan Chang<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.27410)
 </div>
 </div>
@@ -251,6 +251,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

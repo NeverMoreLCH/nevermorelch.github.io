@@ -106,13 +106,6 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhou.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
-  - Pengfei Zhou<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-chang.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -126,6 +119,15 @@ My research area lies at:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/thumbnail/2025-arxiv-zhou.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
+  - Pengfei Zhou<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [AAAI 2026] [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Sekai: A Video Dataset towards World Exploration**
@@ -251,6 +253,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

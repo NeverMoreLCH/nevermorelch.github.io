@@ -123,7 +123,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/thumbnail/2026-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Composition-Incremental Learning for Compositional Generalization**
-  - Zhen Li, Yuwei Wu, Chenchen Jing, Che Sun<span style="color:blue;">+</span>, `Chuanhao Li`<span style="color:blue;">+</span>, Yunde Jia
+  - Zhen Li, Yuwei Wu, Chenchen Jing, Che Sun<span style="color:blue;">+</span>, `Chuanhao Li`<span style="color:blue;">+</span>, and Yunde Jia.
   - [AAAI 2026] [[paper]](https://arxiv.org/abs/2511.09082)
 </div>
 </div>
@@ -261,6 +261,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

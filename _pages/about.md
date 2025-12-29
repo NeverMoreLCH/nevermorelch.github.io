@@ -41,6 +41,30 @@ My research area lies at:
 # ⚡ Preprint
 <p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Yume1.5: A Text-Controlled Interactive World Generation Model**
+  - Xiaofeng Mao, Zhen Li, `Chuanhao Li`, Xiaojie Xu, Kaining Ying, Tong He, Jiangmiao Pang, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.22096)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-peng.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **SVBench: Evaluation of Video Generation Models on Social Reasoning**
+  - Wenshuo Peng, Gongxuan Wang, Tianmeng Yang, `Chuanhao Li`, Xiaojie Xu, Hui He, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.21507)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhang.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
+  - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.16300)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun-vispainter.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration**
@@ -56,7 +80,6 @@ My research area lies at:
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.27410)
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhai.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -261,6 +284,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

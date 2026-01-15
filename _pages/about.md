@@ -41,6 +41,30 @@ My research area lies at:
 # ⚡ Preprint
 <p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **World Craft: Agentic Framework to Create Visualizable Worlds via Text**
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Fen<span style="color:red;">*</span>g, Kaining Ying<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Yifan Chang, Yu Dai, Yifei Huang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.09150) [[code]](https://github.com/HerzogFL/World-Craft)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-lizizhen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**
+  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.07251)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-ai.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments**
+  - Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2601.02399)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Yume1.5: A Text-Controlled Interactive World Generation Model**
@@ -284,6 +308,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

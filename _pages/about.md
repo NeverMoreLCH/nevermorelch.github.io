@@ -43,7 +43,7 @@ My research area lies at:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-  **World Craft: Agentic Framework to Create Visualizable Worlds via Text**
+  **WorldCraft: Agentic Framework to Create Visualizable Worlds via Text**
   - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Kaining Ying<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Yifan Chang, Yu Dai, Yifei Huang, and Kaipeng Zhang<span style="color:blue;">+</span>.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.09150) [[code]](https://github.com/HerzogFL/World-Craft)
 </div>
@@ -308,6 +308,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

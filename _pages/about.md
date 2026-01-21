@@ -290,6 +290,9 @@ My research area lies at:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Selected Awards
+- *2025.12*, Shanghai Post-doctoral Excellence Program
+- *2025.12*，78th Batch of General Funding — China Postdoctoral Science Foundation
+- *2025.06*, Excellent PhD studental Dissertation Award of BIT
 - *2023.01*, the second prize in the multi-modal technology innovation competition of the first “Xingzhi Cup” National Artificial Intelligence Innovation Application Competition
 - *2016.05*, the first prize in the CCPC Heilongjiang Collegiate Programming Contest
 - *2015.05*, the first prize in the CCPC Heilongjiang Collegiate Programming Contest
@@ -308,6 +311,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

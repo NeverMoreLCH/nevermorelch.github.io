@@ -137,14 +137,6 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**
-  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2506.09427)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
@@ -166,6 +158,14 @@ My research area lies at:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**
+  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [ICLR 2026] [[paper]](https://arxiv.org/abs/2506.09427)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/thumbnail/2026-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -311,6 +311,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

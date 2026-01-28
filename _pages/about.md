@@ -53,7 +53,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
   **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**
   - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.07251)
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.07251) [[code]](https://github.com/leroy9472/MeepleLM)
 </div>
 </div>
 
@@ -311,6 +311,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

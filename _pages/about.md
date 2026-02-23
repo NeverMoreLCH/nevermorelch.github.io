@@ -57,30 +57,6 @@ My research area lies at:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-ai.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments**
-  - Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2601.02399)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **Yume1.5: A Text-Controlled Interactive World Generation Model**
-  - Xiaofeng Mao, Zhen Li, `Chuanhao Li`, Xiaojie Xu, Kaining Ying, Tong He, Jiangmiao Pang, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.22096)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-peng.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **SVBench: Evaluation of Video Generation Models on Social Reasoning**
-  - Wenshuo Peng, Gongxuan Wang, Tianmeng Yang, `Chuanhao Li`, Xiaojie Xu, Hui He, and Kaipeng Zhang<span style="color:blue;">+</span>.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.21507)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhang.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
@@ -158,6 +134,30 @@ My research area lies at:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Yume1.5: A Text-Controlled Interactive World Generation Model**
+  - Xiaofeng Mao, Zhen Li, `Chuanhao Li`, Xiaojie Xu, Kaining Ying, Tong He, Jiangmiao Pang, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.22096)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-peng.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **SVBench: Evaluation of Video Generation Models on Social Reasoning**
+  - Wenshuo Peng, Gongxuan Wang, Tianmeng Yang, `Chuanhao Li`, Xiaojie Xu, Hui He, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.21507)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-ai.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments**
+  - Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2601.02399)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -311,6 +311,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

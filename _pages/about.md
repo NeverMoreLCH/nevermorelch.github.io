@@ -159,6 +159,14 @@ My research area lies at:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/thumbnail/2026-www-zhang.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Navigating Truth in Multimodal Fact-checking via Retrieval- and Reasoning-Enhanced Large Language Models**
+  - Fanrui Zhang, Qiang Zhang, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Zizhen Li, Kaipeng Zhang, Jiawei Liu, and Zheng-Jun Zha.
+  - [WWW 2026] [[paper]](https://www2026.thewebconf.org/accepted/research-tracks.html)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**
@@ -311,6 +319,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

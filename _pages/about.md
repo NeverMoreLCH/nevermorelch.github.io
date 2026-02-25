@@ -41,6 +41,14 @@ My research area lies at:
 # ⚡ Preprint
 <p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-feng.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces**
+  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Zelai Yang<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Kang He, Rui Ma, Jifan Lin, Jie Sun, Yang Xiao, Sizhuo Zhou, Wenxiao Wu, Yiming Liu, Pengfei Liu, Yu Qiao, Shenglin Zhang, and Kaipeng Zhang<span style="color:blue;">+</span>as.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2602.14337) [[code]](https://github.com/finyorko/longcli-bench)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WorldCraft: Agentic Framework to Create Visualizable Worlds via Text**
@@ -319,6 +327,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

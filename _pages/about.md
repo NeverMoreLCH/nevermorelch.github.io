@@ -38,6 +38,22 @@ My research area lies at:
  
 <span class='anchor' id='-arxiv'></span>
 
+# 🔥 News
+- [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
+- [Jan'2026] **One** paper is accepted by <u>ICLR 2026</u>.
+- [Dec'2025] **Two** papers are accepted by <u>AAAI 2026</u>.
+- [Sep'2025] **One** paper is accepted by <u>NeurIPS 2025</u>.
+- [Aug'2025] **One** paper (1 main) is accepted by <u>EMNLP 2025</u>.
+- [Apr'2025] **One** paper is accepted by <u>IJCAI 2025</u>.
+- [Feb'2025] **One** paper (1 oral) is accepted by <u>CVPR 2025</u>.
+- [Jan'2025] **One** paper is accepted by <u>ICLR 2025</u>.
+- [Dec'2024] **One** paper is accepted by <u>AAAI 2025</u>.
+- [Sep'2024] **Two** papers (1 spotlight) are accepted by <u>NeurIPS 2024</u>.
+- [Jul'2024] **One** paper is accepted by <u>ECCV 2024</u>.
+- [Sep'2024] **One** paper (1 main) is accepted by <u>EMNLP 2024</u>.
+- [Feb'2023] **One** paper is accepted by <u>CVPR 2023</u>.
+- [Dec'2021] **One** paper is accepted by <u>AAAI 2022</u>.
+
 # ⚡ Preprint
 <p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
 
@@ -327,6 +343,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

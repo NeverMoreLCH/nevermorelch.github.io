@@ -36,7 +36,7 @@ My research area lies at:
 - *2017.09 - 2020.01*, <a href="https://www.neu.edu.cn/"><img class="png" src="/images/NEU_logo.png" width="23pt"></a> Master in CS, Northeastern University, Shenyang, Liaoning, China
 - *2013.09 - 2017.06*, <a href="https://www.hrbust.edu.cn/"><img class="png" src="/images/HRBUST_logo.png" width="23pt"></a>  Bachelor in CS, Harbin University of Science and Technology, Harbin, Heilongjiang, China
  
-<span class='anchor' id='-arxiv'></span>
+<span class='anchor' id='-news'></span>
 
 # 🔥 News
 - [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
@@ -344,6 +344,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

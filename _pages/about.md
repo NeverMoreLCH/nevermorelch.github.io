@@ -41,6 +41,7 @@ My research area lies at:
 # 🔥 News
 - [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
 - [Jan'2026] **One** paper is accepted by <u>ICLR 2026</u>.
+- [Jan'2026] **One** paper is accepted by <u>WWW 2026</u>.
 - [Dec'2025] **Two** papers are accepted by <u>AAAI 2026</u>.
 - [Sep'2025] **One** paper is accepted by <u>NeurIPS 2025</u>.
 - [Aug'2025] **One** paper (1 main) is accepted by <u>EMNLP 2025</u>.
@@ -344,6 +345,7 @@ My research area lies at:
 - *2025.04 - Present*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
 
 
 

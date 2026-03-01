@@ -5,7 +5,10 @@ main:
 
   - title: "Education"
     url: "/#-xl"
-    
+
+  - title: "News"
+    url: "/#-news"
+  
   - title: "Preprint"
     url: "/#-arxiv"
     
@@ -20,3 +23,4 @@ main:
 
   - title: "Work Experience"
     url: "/#-gzsx"
+

@@ -58,7 +58,7 @@ My research area lies at:
 <span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
-<p style="color:red;"><strong>* indicates equal contribution</strong></p><strong>📧 indicates corresponding author</strong>
+<p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 

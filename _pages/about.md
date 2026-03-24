@@ -58,12 +58,14 @@ My research area lies at:
 <span class='anchor' id='-arxiv'></span>
 
 # ⚡ Preprint
-<p style="color:red;"><strong>* indicates equal contribution</strong></p><p style="color:blue;"><strong> + indicates corresponding author</strong></p>
+<p style="color:red;"><strong>* indicates equal contribution</strong></p><strong>📧 indicates corresponding author</strong>
+<!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
+<!-- <span style="color:blue;">+</span> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-feng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces**
-  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Zelai Yang<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Kang He, Rui Ma, Jifan Lin, Jie Sun, Yang Xiao, Sizhuo Zhou, Wenxiao Wu, Yiming Liu, Pengfei Liu, Yu Qiao, Shenglin Zhang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Zelai Yang<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Kang He, Rui Ma, Jifan Lin, Jie Sun, Yang Xiao, Sizhuo Zhou, Wenxiao Wu, Yiming Liu, Pengfei Liu, Yu Qiao, Shenglin Zhang, and Kaipeng Zhang📧.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2602.14337) [[code]](https://github.com/finyorko/longcli-bench)
 </div>
 </div>
@@ -71,7 +73,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WorldCraft: Agentic Framework to Create Visualizable Worlds via Text**
-  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Kaining Ying<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Yifan Chang, Yu Dai, Yifei Huang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Kaining Ying<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Yifan Chang, Yu Dai, Yifei Huang, and Kaipeng Zhang📧.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.09150) [[code]](https://github.com/HerzogFL/World-Craft)
 </div>
 </div>
@@ -79,7 +81,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-lizizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**
-  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang📧.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.07251) [[code]](https://github.com/leroy9472/MeepleLM)
 </div>
 </div>
@@ -87,7 +89,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhang.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
-  - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.16300)
 </div>
 </div>
@@ -95,7 +97,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun-vispainter.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration**
-  - Jianwen Sun<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Yifan Chang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jianwen Sun<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Yifan Chang, Yu Dai, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.27452)
 </div>
 </div>
@@ -103,7 +105,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun-dialogue.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Dialogue as Discovery: Navigating Human Intent Through Principled Inquiry**
-  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Yifan Chang<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Yifan Chang<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yu Dai, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.27410)
 </div>
 </div>
@@ -119,7 +121,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lishilong.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents**
-  - Shilong Li<span style="color:red;">*</span>, Xingyuan Bu<span style="color:red;">*</span><span style="color:blue;">+</span>, ..., `Chuanhao Li`, ..., Ruizhe Ding, and Shilei Wen<span style="color:blue;">+</span>.
+  - Shilong Li<span style="color:red;">*</span>, Xingyuan Bu<span style="color:red;">*</span>📧, ..., `Chuanhao Li`, ..., Ruizhe Ding, and Shilei Wen📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2508.13186) [[code]](https://github.com/MMBrowseComp/MM-BrowseComp) [[dataset]](https://huggingface.co/datasets/mmbrowsecomp/MMBrowseComp)
 </div>
 </div>
@@ -127,7 +129,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-mao.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **YUME: An Interactive World Generation Model**
-  - Xiaofeng Mao, Shaoheng Lin, Zhen Li, `Chuanhao Li`, Wenshuo Peng, Tong He, Jiangmiao Pang, Mingmin Chi<span style="color:blue;">+</span>, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Xiaofeng Mao, Shaoheng Lin, Zhen Li, `Chuanhao Li`, Wenshuo Peng, Tong He, Jiangmiao Pang, Mingmin Chi📧, Yu Qiao, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2507.17744) [[homepage]](https://stdstu12.github.io/YUME-Project/) [[code]](https://github.com/stdstu12/YUME)
 </div>
 </div>
@@ -135,7 +137,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **IA-T2I: Internet-Augmented Text-to-Image Generation**
-  - `Chuanhao Li`<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Mingliang Zhai, Yifan Chang, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.15779)
 </div>
 </div>
@@ -143,7 +145,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
-  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2503.06542) [[code]](https://armor.github.io/)
 </div>
 </div>
@@ -152,7 +154,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-chang.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**
-  - Yifan Chang<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, S. Kevin Zhou, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Yifan Chang<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, S. Kevin Zhou, and Kaipeng Zhang📧.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2505.22126)
 </div>
 </div>
@@ -164,7 +166,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Yume1.5: A Text-Controlled Interactive World Generation Model**
-  - Xiaofeng Mao, Zhen Li, `Chuanhao Li`, Xiaojie Xu, Kaining Ying, Tong He, Jiangmiao Pang, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Xiaofeng Mao, Zhen Li, `Chuanhao Li`, Xiaojie Xu, Kaining Ying, Tong He, Jiangmiao Pang, Yu Qiao, and Kaipeng Zhang📧.
   - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.22096)
 </div>
 </div>
@@ -172,7 +174,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-peng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **SVBench: Evaluation of Video Generation Models on Social Reasoning**
-  - Wenshuo Peng, Gongxuan Wang, Tianmeng Yang, `Chuanhao Li`, Xiaojie Xu, Hui He, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Wenshuo Peng, Gongxuan Wang, Tianmeng Yang, `Chuanhao Li`, Xiaojie Xu, Hui He, and Kaipeng Zhang📧.
   - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.21507)
 </div>
 </div>
@@ -180,7 +182,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-ai.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments**
-  - Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, and Kaipeng Zhang📧.
   - [CVPR 2026] [[paper]](https://arxiv.org/abs/2601.02399)
 </div>
 </div>
@@ -196,7 +198,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/thumbnail/2025-arxiv-feng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**
-  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yifan Chang, Sizhuo Zhou, Shenglin Zhang, Yu Dai, and Kaipeng Zhang📧.
   - [ICLR 2026] [[paper]](https://arxiv.org/abs/2506.09427)
 </div>
 </div>
@@ -204,7 +206,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/thumbnail/2026-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Composition-Incremental Learning for Compositional Generalization**
-  - Zhen Li, Yuwei Wu, Chenchen Jing, Che Sun<span style="color:blue;">+</span>, `Chuanhao Li`<span style="color:blue;">+</span>, and Yunde Jia.
+  - Zhen Li, Yuwei Wu, Chenchen Jing, Che Sun📧, `Chuanhao Li`📧, and Yunde Jia.
   - [AAAI 2026] [[paper]](https://arxiv.org/abs/2511.09082)
 </div>
 </div>
@@ -212,7 +214,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/thumbnail/2025-arxiv-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**
-  - Pengfei Zhou<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Pengfei Zhou<span style="color:red;">*</span>, Fanrui Zhang<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, `Chuanhao Li`, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You📧, and Kaipeng Zhang📧.
   - [AAAI 2026] [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12)
 </div>
 </div>
@@ -220,7 +222,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/thumbnail/2025-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Sekai: A Video Dataset towards World Exploration**
-  - Zhen Li<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span><span style="color:blue;">+</span>, ..., Yuwei Wu<span style="color:blue;">+</span>, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Zhen Li<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span>📧, ..., Yuwei Wu📧, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, and Kaipeng Zhang📧.
   - [NeurIPS 2025] [[paper]](https://arxiv.org/abs/2506.15675) [[homepage]](https://lixsp11.github.io/sekai-project/) [[dataset]](https://huggingface.co/datasets/Lixsp11/Sekai-Project) [[code]](https://github.com/Lixsp11/sekai-codebase)
 </div>
 </div>
@@ -228,7 +230,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/thumbnail/2025-emnlp-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles**
-  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Qi Chen, Diping Song, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Qi Chen, Diping Song, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, and Kaipeng Zhang📧.
   - [EMNLP 2025] [Main Conference] [[paper]](https://arxiv.org/abs/2508.16072)
 </div>
 </div>
@@ -236,7 +238,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/thumbnail/2025-ijcai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Multi-Sourced Compositional Generalization in Visual Question Answering**
-  - `Chuanhao Li`<span style="color:red;">*</span>, Wenbo Ye<span style="color:red;">*</span>, Zhen Li, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Wenbo Ye<span style="color:red;">*</span>, Zhen Li, Yuwei Wu📧, and Yunde Jia.
   - [IJCAI 2025] [[paper]](https://arxiv.org/abs/2505.23045) [[code]](https://github.com/NeverMoreLCH/MSCG)
 </div>
 </div>
@@ -244,7 +246,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/thumbnail/2025-cvpr-zhou.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
-  - Pengfei Zhou<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Pengfei Zhou<span style="color:red;">*</span>, Xiaopeng Peng<span style="color:red;">*</span>, Jiajun Song, `Chuanhao Li`, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, and Kaipeng Zhang📧.
   - [CVPR 2025] **[Oral] (Top 3.3%)** [[paper]](https://arxiv.org/abs/2411.18499) [[code]](https://opening-benchmark.github.io/)
 </div>
 </div>
@@ -252,7 +254,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/thumbnail/2025-iclr-meng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**
-  - Fanqing Meng<span style="color:red;">*</span>, Jin Wang<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span>, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang<span style="color:blue;">+</span>, and Wenqi Shao<span style="color:blue;">+</span>.
+  - Fanqing Meng<span style="color:red;">*</span>, Jin Wang<span style="color:red;">*</span>, `Chuanhao Li`<span style="color:red;">*</span>, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang📧, and Wenqi Shao📧.
   - [ICLR 2025] [[paper]](https://arxiv.org/abs/2408.02718) [[code]](https://mmiu-bench.github.io/)
 </div>
 </div>
@@ -260,7 +262,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/thumbnail/2025-aaai-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Consistency of Compositional Generalization across Multiple Levels**
-  - `Chuanhao Li`<span style="color:red;">*</span>, Zhen Li<span style="color:red;">*</span>, Chenchen Jing<span style="color:blue;">+</span>, Xiaomeng Fan, Wenbo Ye, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Zhen Li<span style="color:red;">*</span>, Chenchen Jing📧, Xiaomeng Fan, Wenbo Ye, Yuwei Wu📧, and Yunde Jia.
   - [AAAI 2025] [[paper]](https://arxiv.org/abs/2412.13636) [[code]](https://github.com/NeverMoreLCH/CCG)
 </div>
 </div>
@@ -268,7 +270,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/thumbnail/2024-neurips-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu<span style="color:blue;">+</span>, Ping Luo, Yu Qiao, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - `Chuanhao Li`, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu📧, Ping Luo, Yu Qiao, and Kaipeng Zhang📧.
   - [NeurIPS 2024] [[paper]](https://nips.cc/virtual/2024/poster/93813) [[code]](https://nevermorelch.github.io/SearchLVLMs.github.io/)
 </div>
 </div>
@@ -276,7 +278,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/thumbnail/2024-neurips-liu.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**
-  - Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao<span style="color:blue;">+</span>, and Kaipeng Zhang<span style="color:blue;">+</span>.
+  - Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, Yuqi Lin, Tianle Zhang, `Chuanhao Li`, Yu Qiao, Ping Luo, Wenqi Shao📧, and Kaipeng Zhang📧.
   - [NeurIPS 2024] **[Spotlight]** [[paper]](https://arxiv.org/abs/2403.20194) [[code]](https://github.com/shirlyliu64/ConvBench)
 </div>
 </div>
@@ -284,7 +286,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/thumbnail/2024-eccv-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
-  - `Chuanhao Li`<span style="color:red;">*</span>, Zhen Li<span style="color:red;">*</span>, Chenchen Jing<span style="color:blue;">+</span>, Yuwei Wu<span style="color:blue;">+</span>, Mingliang Zhai, and Yunde Jia.
+  - `Chuanhao Li`<span style="color:red;">*</span>, Zhen Li<span style="color:red;">*</span>, Chenchen Jing📧, Yuwei Wu📧, Mingliang Zhai, and Yunde Jia.
   - [ECCV 2024] [[paper]](https://eccv.ecva.net/virtual/2024/poster/1492) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 </div>
 </div>
@@ -292,7 +294,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/thumbnail/2024-emnlp-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **In-Context Compositional Generalization for Large Vision-Language Models**
-  - `Chuanhao Li`, Chenchen Jing, Zhen Li, Mingliang Zhai, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`, Chenchen Jing, Zhen Li, Mingliang Zhai, Yuwei Wu📧, and Yunde Jia.
   - [EMNLP 2024] [Main Conference] [[paper]](https://aclanthology.org/2024.emnlp-main.996/)
 </div>
 </div>
@@ -300,7 +302,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2024</div><img src='images/thumbnail/2024-tomm-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Adversarial Sample Synthesis for Visual Question Answering**
-  - `Chuanhao Li`, Chenchen Jing, Zhen Li, Yuwei Wu<span style="color:blue;">+</span>, and Yunde Jia.
+  - `Chuanhao Li`, Chenchen Jing, Zhen Li, Yuwei Wu📧, and Yunde Jia.
   - [TOMM 2024] [[paper]](https://dl.acm.org/doi/10.1145/3688848)
 </div>
 </div>
@@ -308,7 +310,7 @@ My research area lies at:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/thumbnail/2023-cvpr-li.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
-  - `Chuanhao Li`, Zhen Li, Chenchen Jing<span style="color:blue;">+</span>, Yunde Jia, and Yuwei Wu<span style="color:blue;">+</span>.
+  - `Chuanhao Li`, Zhen Li, Chenchen Jing📧, Yunde Jia, and Yuwei Wu📧.
   - [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Exploring_the_Effect_of_Primitives_for_Compositional_Generalization_in_Vision-and-Language_CVPR_2023_paper.html) [[code]](https://github.com/NeverMoreLCH/SSL2CG)
 </div>
 </div>

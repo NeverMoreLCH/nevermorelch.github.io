@@ -162,6 +162,7 @@ My research area lies at:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
+<p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -62,6 +62,14 @@ My research area lies at:
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
+  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Wenshuo Peng, Yuwei Wu📧, Bo Zheng, `Chuanhao Li`📧, and Kaipeng Zhang📧.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2603.23497) [[code]](https://shandaai.github.io/wildworld-project/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-feng.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces**

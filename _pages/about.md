@@ -68,7 +68,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-packforcing.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-  **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
+  **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**
   - Xiaofeng Mao<span style="color:red;">*</span>, Shaohao Rui<span style="color:red;">*</span>, Kaining Ying, Bo Zheng, `Chuanhao Li`, Mingmin Chi📧, and Kaipeng Zhang📧.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2603.25730) [[code]](https://github.com/ShandaAI/PackForcing)
 </div>

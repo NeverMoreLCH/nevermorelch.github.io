@@ -29,6 +29,10 @@ My research area lies at:
 - internet-augmented generation
 - compositional generalization
 
+<p style="color:red;"><strong>Hiring!</strong></p>
+We are actively recruiting research interns in the areas of world models, game generation, and game rendering (UE, blender).  
+If you are interested, please feel free to reach out via email (can be found below the avatar on the left).
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
@@ -61,6 +65,14 @@ My research area lies at:
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-packforcing.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
+  - Xiaofeng Mao<span style="color:red;">*</span>, Shaohao Rui<span style="color:red;">*</span>, Kaining Ying, Bo Zheng, `Chuanhao Li`, Mingmin Chi📧, and Kaipeng Zhang📧.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2603.25730) [[code]](https://github.com/ShandaAI/PackForcing)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

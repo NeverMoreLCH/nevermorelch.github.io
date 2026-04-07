@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Apr'2026] **Two** papers (1 main, 1 findings) are accepted by <u>ACL 2026</u>.
 - [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
 - [Jan'2026] **One** paper is accepted by <u>ICLR 2026</u>.
 - [Jan'2026] **One** paper is accepted by <u>WWW 2026</u>.
@@ -82,27 +83,11 @@ If you are interested, please feel free to reach out via email (can be found bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-feng.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces**
-  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Zelai Yang<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Kang He, Rui Ma, Jifan Lin, Jie Sun, Yang Xiao, Sizhuo Zhou, Wenxiao Wu, Yiming Liu, Pengfei Liu, Yu Qiao, Shenglin Zhang, and Kaipeng Zhang📧.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2602.14337) [[code]](https://github.com/finyorko/longcli-bench)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WorldCraft: Agentic Framework to Create Visualizable Worlds via Text**
   - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Kaining Ying<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Yifan Chang, Yu Dai, Yifei Huang, and Kaipeng Zhang📧.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.09150) [[code]](https://github.com/HerzogFL/World-Craft)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-lizizhen.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**
-  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang📧.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.07251) [[code]](https://github.com/leroy9472/MeepleLM)
 </div>
 </div>
 
@@ -183,6 +168,22 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/thumbnail/2026-arxiv-lizizhen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**
+  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang📧.
+  - [ACL 2026] [Main Conference] [[paper]](https://arxiv.org/abs/2601.07251) [[code]](https://github.com/leroy9472/MeepleLM)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/thumbnail/2026-arxiv-feng.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces**
+  - Yukang Feng<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, Zelai Yang<span style="color:red;">*</span>, Jiaxin Ai, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Kang He, Rui Ma, Jifan Lin, Jie Sun, Yang Xiao, Sizhuo Zhou, Wenxiao Wu, Yiming Liu, Pengfei Liu, Yu Qiao, Shenglin Zhang, and Kaipeng Zhang📧.
+  - [ACL 2026] [Findings] [[paper]](https://arxiv.org/abs/2602.14337) [[code]](https://github.com/finyorko/longcli-bench)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2025-arxiv-mao1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

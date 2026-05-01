@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [May'2026] **One** paper is accepted by <u>ICML 2026</u>.
 - [Apr'2026] **Two** papers (1 main, 1 findings) are accepted by <u>ACL 2026</u>.
 - [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
 - [Jan'2026] **One** paper is accepted by <u>ICLR 2026</u>.
@@ -107,14 +108,6 @@ If you are interested, please feel free to reach out via email (can be found bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun-dialogue.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **Dialogue as Discovery: Navigating Human Intent Through Principled Inquiry**
-  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Yifan Chang<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yu Dai, and Kaipeng Zhang📧.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.27410)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhai.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Multi-Step Reasoning for Embodied Question Answering via Tool Augmentation**
@@ -168,6 +161,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/thumbnail/2025-arxiv-sun-dialogue.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Closing the Expression Gap in LLM Instructions via Socratic Questioning**
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Yifan Chang<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Jiaxin Ai, Fanrui Zhang, Yu Dai, and Kaipeng Zhang📧.
+  - [ICML 2026] [[paper]](https://arxiv.org/abs/2510.27410)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/thumbnail/2026-arxiv-lizizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

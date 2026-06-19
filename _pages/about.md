@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Jun'2026] **Four** papers are accepted by <u>ECCV 2026</u>.
 - [May'2026] **One** paper is accepted by <u>ICML 2026</u>.
 - [Apr'2026] **Two** papers (1 main, 1 findings) are accepted by <u>ACL 2026</u>.
 - [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
@@ -68,35 +69,11 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-packforcing.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**
-  - Xiaofeng Mao<span style="color:red;">*</span>, Shaohao Rui<span style="color:red;">*</span>, Kaining Ying, Bo Zheng, `Chuanhao Li`, Mingmin Chi📧, and Kaipeng Zhang📧.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2603.25730) [[code]](https://github.com/ShandaAI/PackForcing)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
-  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Wenshuo Peng, Yuwei Wu📧, Bo Zheng, `Chuanhao Li`📧, and Kaipeng Zhang📧.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2603.23497) [[code]](https://shandaai.github.io/wildworld-project/)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WorldCraft: Agentic Framework to Create Visualizable Worlds via Text**
   - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, Kaining Ying<span style="color:red;">*</span>, `Chuanhao Li`, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Yifan Chang, Yu Dai, Yifei Huang, and Kaipeng Zhang📧.
   - [arXiv 2026] [[paper]](https://arxiv.org/abs/2601.09150) [[code]](https://github.com/HerzogFL/World-Craft)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-zhang.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
-  - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang📧.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2512.16300)
 </div>
 </div>
 
@@ -161,6 +138,30 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
+  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Wenshuo Peng, Yuwei Wu📧, Bo Zheng, Kaipeng Zhang📧, and `Chuanhao Li`📧.
+  - [ECCV 2026] [[paper]](https://arxiv.org/abs/2603.23497) [[code]](https://shandaai.github.io/wildworld-project/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-arxiv-packforcing.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**
+  - Xiaofeng Mao<span style="color:red;">*</span>, Shaohao Rui<span style="color:red;">*</span>, Kaining Ying, Bo Zheng, `Chuanhao Li`, Mingmin Chi📧, and Kaipeng Zhang📧.
+  - [ECCV 2026] [[paper]](https://arxiv.org/abs/2603.25730) [[code]](https://github.com/ShandaAI/PackForcing)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2025-arxiv-zhang.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
+  - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang📧.
+  - [ECCV 2026] [[paper]](https://arxiv.org/abs/2512.16300)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/thumbnail/2025-arxiv-sun-dialogue.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -69,6 +69,22 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-jamer.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines**
+  - Jianwen Sun, `Chuanhao Li`, Zizhen Li, Yukang Feng, Fanrui Zhang, Yifei Huang, Yu Dai, and Kaipeng Zhang📧.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2606.19830)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-autobg.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **AutoBG: A Board Game Design Assistant with Interactive Ideation, Iterative Rulebook Generation, and Individualized Feedback**
+  - Zizhen Li, `Chuanhao Li`, Yibin Wang, Jianwen Sun, Yukang Feng, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang📧.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2606.01976)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-sunjianwen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WorldCraft: Agentic Framework to Create Visualizable Worlds via Text**

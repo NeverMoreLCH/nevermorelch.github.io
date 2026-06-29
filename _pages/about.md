@@ -15,8 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-{% and Dr. [Wenqi Shao](https://wqshao126.github.io/) %}
-
 <span class='anchor' id='about-me'></span>
 
 # 📜 Biography

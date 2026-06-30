@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📜 Biography
-I am a research in Alaya Studio, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/).
+I am a researcher in Alaya Studio, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/).
 I recevied my Ph.D. degree in 2025 from Beijing Institute of Technology (BIT), won Excellent PhD studental Dissertation Award of BIT, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN);
 Master degree in 2020 from Northeastern University supervised by Prof. [Shukuan Lin](http://www.cse.neu.edu.cn/2019/0303/c6664a159411/page.htm);
 and Bachlor degree in 2017 from Harbin University of Science and Technology.

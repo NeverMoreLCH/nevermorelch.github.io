@@ -69,6 +69,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-agenticsts.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents**
+  - Xiangchen Cheng, Yunwei Jiang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Xiangcheng Cao, Yihao Liu, Fanrui Zhang, Li Jin, and Kaipeng Zhang📧.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2607.02255) [[homepage]](https://alayalab.github.io/AgenticSTS/) [[code]](https://github.com/AlayaLab/AgenticSTS)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-jamer.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines**
@@ -158,7 +166,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
-  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Wenshuo Peng, Yuwei Wu📧, Bo Zheng, Kaipeng Zhang📧, and `Chuanhao Li`📧.
+  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Wenshuo Peng, Yuwei Wu📧, Bo Zheng, `Chuanhao Li`📧, and Kaipeng Zhang📧.
   - [ECCV 2026] [[paper]](https://arxiv.org/abs/2603.23497) [[code]](https://shandaai.github.io/wildworld-project/)
 </div>
 </div>

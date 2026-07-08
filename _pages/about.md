@@ -43,7 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- [Jul'2026] We release **[[AlayaWorld]](https://alaya-lab.github.io/AlayaWorld/)**, an interactive autoregressive world model with real-time camera control, prompt switching, and long-horizon memory consistency.
+- [Jul'2026] We release **[AlayaWorld](https://alaya-lab.github.io/AlayaWorld/)**, an interactive autoregressive world model with real-time camera control, prompt switching, and long-horizon memory consistency.
 - [Jun'2026] **Four** papers are accepted by <u>ECCV 2026</u>.
 - [May'2026] **One** paper is accepted by <u>ICML 2026</u>.
 - [Apr'2026] **Two** papers (1 main, 1 findings) are accepted by <u>ACL 2026</u>.

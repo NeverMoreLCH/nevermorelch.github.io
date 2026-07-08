@@ -69,6 +69,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/thumbnail/2026-arxiv-alayaworld.jpg' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **AlayaWorld: Long-Horizon and Playable Video World Generation**
+  - Alaya Lab (`Chuanhao Li` as Lead and Core Contributor, see the contribution section of the report for the author list)
+  - [Technical Report] [[paper]](https://arxiv.org/abs/2607.06291) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-agenticsts.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents**

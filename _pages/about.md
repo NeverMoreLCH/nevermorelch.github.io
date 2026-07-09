@@ -24,10 +24,10 @@ Master degree in 2020 from Northeastern University supervised by Prof. [Shukuan 
 and Bachlor degree in 2017 from Harbin University of Science and Technology.
 
 My research area lies at:
-- vision-and-language
-- image/video generation
-- internet-augmented generation
-- compositional generalization
+- World Model
+- Video Generation
+- Internet-Augmented Generation
+- Compositional Generalization
 
 <p style="color:red;"><strong>Hiring!</strong></p>
 We are actively recruiting research interns in the areas of world models, game generation, and game rendering (UE, blender).  

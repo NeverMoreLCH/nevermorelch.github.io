@@ -189,14 +189,6 @@ If you are interested, please feel free to reach out via email (can be found bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-eccv-surprise.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **Surprise Forcing: What to Remember, When to Skip in Long Video Generation**
-  - Shuwei Shi, Zhen Li, Muyao Niu, `Chuanhao Li`, Bo Zheng, Kaipeng Zhang, Yinqiang Zheng.
-  - [ECCV 2026]
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
@@ -210,6 +202,14 @@ If you are interested, please feel free to reach out via email (can be found bel
   **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**
   - Xiaofeng Mao<span style="color:red;">*</span>, Shaohao Rui<span style="color:red;">*</span>, Kaining Ying, Bo Zheng, `Chuanhao Li`, Mingmin Chi📧, and Kaipeng Zhang📧.
   - [ECCV 2026] [[paper]](https://arxiv.org/abs/2603.25730) [[code]](https://github.com/ShandaAI/PackForcing)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-eccv-suprise.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Surprise Forcing: What to Remember, When to Skip in Long Video Generation**
+  - Shuwei Shi, Zhen Li, Muyao Niu, `Chuanhao Li`, Bo Zheng, Kaipeng Zhang, Yinqiang Zheng.
+  - [ECCV 2026]
 </div>
 </div>
 

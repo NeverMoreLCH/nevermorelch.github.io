@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Jul'2026] **One** paper is accepted by <u>SIGGRAPH Asia 2026</u>.
 - [Jul'2026] We release **[AlayaWorld](https://alaya-lab.github.io/AlayaWorld/)**, an interactive autoregressive world model with real-time camera control, prompt switching, and long-horizon memory consistency.
 - [Jun'2026] **Four** papers are accepted by <u>ECCV 2026</u>.
 - [May'2026] **One** paper is accepted by <u>ICML 2026</u>.
@@ -179,6 +180,22 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/thumbnail/2026-sigasia-mugen.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Interactive Panoramic World Exploration via Camera Control**
+  - Jiaming Tan, Zhen Li, Shuwei Shi, Minggui Teng, Siqi Yang, Yuwei Wu📧, Bo Zheng, Kaipeng Zhang📧, and `Chuanhao Li`📧.
+  - [SIGGRAPH Asia 2026]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-eccv-surprise.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Surprise Forcing: What to Remember, When to Skip in Long Video Generation**
+  - Shuwei Shi, Zhen Li, Muyao Niu, `Chuanhao Li`, Bo Zheng, Kaipeng Zhang, Yinqiang Zheng.
+  - [ECCV 2026]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/thumbnail/2026-arxiv-lizhen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

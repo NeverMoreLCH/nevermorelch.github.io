@@ -126,15 +126,14 @@ h1:before, .anchor:before {
   overflow: hidden;
   cursor: pointer;
   box-shadow: 3px 3px 6px #888;
-  background: #000; /* letterbox bars above/below the landscape video */
 }
 .video-thumb iframe {
   position: absolute;
   top: 50%;
-  left: 0;
-  width: 100%;      /* show the full 16:9 landscape video, centered vertically */
-  height: 56.25%;   /* 16:9 of the 160px width = 90px */
-  transform: translateY(-50%);
+  left: 50%;
+  height: 100%;     /* fill the square and crop the sides, like the paper thumbnails */
+  width: 177.78%;   /* 16:9 scaled to 160px height = 284px, cropped to the 160px box */
+  transform: translate(-50%, -50%);
   pointer-events: none; /* let clicks reach the overlay, not the player */
   border: 0;
 }

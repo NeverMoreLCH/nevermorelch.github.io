@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Jul'2026] We release the **full technical report** of **[AlayaWorld](https://arxiv.org/abs/2607.18367)**.
 - [Jul'2026] **One** paper is accepted by <u>SIGGRAPH Asia 2026</u>.
 - [Jul'2026] We release **[AlayaWorld](https://alaya-lab.github.io/AlayaWorld/)**, an interactive autoregressive world model with real-time camera control, prompt switching, and long-horizon memory consistency.
 - [Jun'2026] **Four** papers are accepted by <u>ECCV 2026</u>.
@@ -72,7 +73,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **AlayaWorld: Long-Horizon and Playable Video World Generation**
   - Alaya Lab (`Chuanhao Li` as **Lead** and **Core Contributor**)
-  - [Technical Report] [[paper]](https://arxiv.org/abs/2607.06291) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
+  - [Technical Report] [[intro report]](https://arxiv.org/abs/2607.06291) [[full report]](https://arxiv.org/abs/2607.18367) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
 </div>
 </div>
 

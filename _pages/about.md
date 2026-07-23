@@ -209,7 +209,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **Surprise Forcing: What to Remember, When to Skip in Long Video Generation**
   - Shuwei Shi, Zhen Li, Muyao Niu, `Chuanhao Li`, Bo Zheng, Kaipeng Zhang, Yinqiang Zheng.
-  - [ECCV 2026]
+  - [ECCV 2026] [[paper]](https://arxiv.org/abs/2607.18436)
 </div>
 </div>
 

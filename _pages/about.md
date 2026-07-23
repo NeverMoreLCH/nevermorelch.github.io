@@ -68,7 +68,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 🚀 Technical Report
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb" onclick="openVideoModal('n0jIEg7taTI')"><iframe src="https://www.youtube.com/embed/n0jIEg7taTI?autoplay=1&mute=1&loop=1&playlist=n0jIEg7taTI&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="AlayaWorld demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('n0jIEg7taTI')"><iframe src="https://www.youtube.com/embed/n0jIEg7taTI?autoplay=1&mute=1&loop=1&playlist=n0jIEg7taTI&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="AlayaWorld demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
   **AlayaWorld: Long-Horizon and Playable Video World Generation**
   - Alaya Lab (`Chuanhao Li` as **Lead** and **Core Contributor**)

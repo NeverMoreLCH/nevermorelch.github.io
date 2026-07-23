@@ -115,6 +115,7 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    z-index: 2; /* keep the badge above the video-thumb iframe */
 }
 
 /* ---- video thumbnail (Technical Report): muted autoplay loop, click to enlarge ---- */
@@ -125,14 +126,15 @@ h1:before, .anchor:before {
   overflow: hidden;
   cursor: pointer;
   box-shadow: 3px 3px 6px #888;
+  background: #000; /* letterbox bars above/below the landscape video */
 }
 .video-thumb iframe {
   position: absolute;
   top: 50%;
-  left: 50%;
-  width: 178%;   /* 16:9 video covering a square, sides cropped */
-  height: 100%;
-  transform: translate(-50%, -50%);
+  left: 0;
+  width: 100%;      /* show the full 16:9 landscape video, centered vertically */
+  height: 56.25%;   /* 16:9 of the 160px width = 90px */
+  transform: translateY(-50%);
   pointer-events: none; /* let clicks reach the overlay, not the player */
   border: 0;
 }

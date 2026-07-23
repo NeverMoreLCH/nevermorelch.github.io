@@ -19,9 +19,9 @@ redirect_from:
 
 # 📜 Biography
 I am a researcher in Alaya Lab, collaborating closely with Dr. [Kaipeng Zhang](https://kpzhang93.github.io/).
-I recevied my Ph.D. degree in 2025 from Beijing Institute of Technology (BIT), won Excellent PhD studental Dissertation Award of BIT, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN);
+I received my Ph.D. degree in 2025 from Beijing Institute of Technology (BIT), won Excellent PhD Student Dissertation Award of BIT, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN);
 Master degree in 2020 from Northeastern University supervised by Prof. [Shukuan Lin](http://www.cse.neu.edu.cn/2019/0303/c6664a159411/page.htm);
-and Bachlor degree in 2017 from Harbin University of Science and Technology.
+and Bachelor degree in 2017 from Harbin University of Science and Technology.
 
 My research area lies at:
 - World Model
@@ -64,20 +64,24 @@ If you are interested, please feel free to reach out via email (can be found bel
 - [Feb'2023] **One** paper is accepted by <u>CVPR 2023</u>.
 - [Dec'2021] **One** paper is accepted by <u>AAAI 2022</u>.
 
-<span class='anchor' id='-arxiv'></span>
+<span class='anchor' id='-report'></span>
 
-# ⚡ Preprint
-<p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
-<!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
-<!-- <span style="color:blue;">+</span> -->
+# 🚀 Technical Report
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/thumbnail/2026-arxiv-alayaworld.jpg' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb" onclick="openVideoModal('n0jIEg7taTI')"><iframe src="https://www.youtube.com/embed/n0jIEg7taTI?autoplay=1&mute=1&loop=1&playlist=n0jIEg7taTI&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="AlayaWorld demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
   **AlayaWorld: Long-Horizon and Playable Video World Generation**
   - Alaya Lab (`Chuanhao Li` as **Lead** and **Core Contributor**)
   - [Technical Report] [[paper]](https://arxiv.org/abs/2607.06291) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
 </div>
 </div>
+
+<span class='anchor' id='-arxiv'></span>
+
+# ⚡ Preprint
+<p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+<!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
+<!-- <span style="color:blue;">+</span> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-black.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -409,8 +413,8 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 🏅 Selected Awards
 - *2025.12*, Shanghai Post-doctoral Excellence Program
-- *2025.12*，78th Batch of General Funding — China Postdoctoral Science Foundation
-- *2025.06*, Excellent PhD studental Dissertation Award of BIT
+- *2025.12*, 78th Batch of General Funding — China Postdoctoral Science Foundation
+- *2025.06*, Excellent PhD Student Dissertation Award of BIT
 - *2023.01*, the second prize in the multi-modal technology innovation competition of the first “Xingzhi Cup” National Artificial Intelligence Innovation Application Competition
 - *2016.05*, the first prize in the CCPC Heilongjiang Collegiate Programming Contest
 - *2015.05*, the first prize in the CCPC Heilongjiang Collegiate Programming Contest
@@ -429,6 +433,87 @@ If you are interested, please feel free to reach out via email (can be found bel
 - *2025.04 - 2026.03*, Researcher, Shanghai AI Lab, Shanghai, China
 - *2024.01 - 2025.04*, Intern, Shanghai AI Lab, Shanghai, China
 - *2019.07 - 2019.10*, Intern, UISEE, Beijing, China
+
+<!-- ===== Fullscreen video modal (opened by the Technical Report thumbnail) ===== -->
+<div id="video-modal" class="video-modal" onclick="closeVideoModal(event)">
+  <div class="video-modal-inner">
+    <span class="video-modal-close" onclick="closeVideoModal(event)">&times;</span>
+    <div class="video-modal-frame"><iframe id="video-modal-iframe" src="" title="video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe></div>
+  </div>
+</div>
+
+<script>
+// ---- Technical Report video: click small thumbnail -> play large in a modal ----
+function openVideoModal(id) {
+  var m = document.getElementById('video-modal');
+  var f = document.getElementById('video-modal-iframe');
+  f.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0&playsinline=1';
+  m.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeVideoModal(e) {
+  // ignore clicks that land inside the player itself
+  if (e && e.target && e.target.closest && e.target.closest('.video-modal-frame')) return;
+  var m = document.getElementById('video-modal');
+  var f = document.getElementById('video-modal-iframe');
+  m.classList.remove('open');
+  f.src = '';
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeVideoModal(); });
+
+// ---- Collapse News / Preprint / Publications to the first N, with a "show more" toggle ----
+(function () {
+  var LIMIT = 6;
+  var SECTIONS = [
+    { anchor: '-news',  mode: 'li'  },
+    { anchor: '-arxiv', mode: 'box' },
+    { anchor: '-lwzl',  mode: 'box' }
+  ];
+  function collect(cfg) {
+    var span = document.getElementById(cfg.anchor);
+    if (!span) return null;
+    var items = [], listParent = null, node = span.nextElementSibling;
+    while (node && !(node.matches && node.matches('span.anchor'))) {
+      if (cfg.mode === 'box') {
+        if (node.classList && node.classList.contains('paper-box')) items.push(node);
+      } else if (node.tagName === 'UL' && !listParent) {
+        listParent = node;
+      }
+      node = node.nextElementSibling;
+    }
+    if (cfg.mode === 'li' && listParent) {
+      items = Array.prototype.slice.call(listParent.children)
+        .filter(function (c) { return c.tagName === 'LI'; });
+    }
+    return { items: items, listParent: listParent, mode: cfg.mode };
+  }
+  SECTIONS.forEach(function (cfg) {
+    var r = collect(cfg);
+    if (!r || r.items.length <= LIMIT) return;
+    var hidden = r.items.slice(LIMIT);
+    hidden.forEach(function (el) { el.classList.add('pub-collapsed'); });
+
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'show-more-btn';
+    var n = hidden.length, expanded = false;
+    btn.textContent = 'Show ' + n + ' more ▾';
+    btn.addEventListener('click', function () {
+      expanded = !expanded;
+      hidden.forEach(function (el) { el.classList.toggle('pub-collapsed', !expanded); });
+      btn.textContent = expanded ? 'Show less ▴' : ('Show ' + n + ' more ▾');
+    });
+
+    if (cfg.mode === 'li' && r.listParent) {
+      r.listParent.parentNode.insertBefore(btn, r.listParent.nextSibling);
+    } else {
+      var last = r.items[r.items.length - 1];
+      last.parentNode.insertBefore(btn, last.nextSibling);
+    }
+  });
+})();
+</script>
 
 
 

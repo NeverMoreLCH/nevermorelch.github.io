@@ -121,19 +121,18 @@ h1:before, .anchor:before {
 /* ---- video thumbnail (Technical Report): muted autoplay loop, click to enlarge ---- */
 .video-thumb {
   position: relative;
-  display: inline-block;
-  height: 160px;        /* fill the row height, like the paper thumbnails */
+  width: 160px;         /* fixed width, same as the paper thumbnails */
+  height: 90px;         /* 16:9 at 160px wide — full landscape, no cropping, no overflow */
   line-height: 0;
   cursor: pointer;
+  box-shadow: 3px 3px 6px #888;
 }
 .video-thumb iframe {
   display: block;
+  width: 100%;
   height: 100%;
-  aspect-ratio: 16 / 9; /* full landscape video, width follows the ratio — no cropping */
-  width: auto;
   border: 0;
   pointer-events: none; /* let clicks reach the overlay, not the player */
-  box-shadow: 3px 3px 6px #888;
 }
 .video-thumb .video-play {
   position: absolute;

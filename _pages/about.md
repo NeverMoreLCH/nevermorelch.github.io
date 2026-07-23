@@ -506,9 +506,18 @@ document.addEventListener('keydown', function (e) { if (e.key === 'Escape') clos
     var moreText = 'Show ' + n + ' more ' + cfg.name + ' ▾';
     var lessText = 'Show less ' + cfg.name + ' ▴';
     btn.textContent = moreText;
+    // drop the divider line under whichever item is currently the last visible one
+    // (its border-bottom would otherwise draw a line right above the button)
+    function updateEdge() {
+      r.items.forEach(function (el) { el.classList.remove('pub-noborder'); });
+      var lastVisible = expanded ? r.items[r.items.length - 1] : r.items[LIMIT - 1];
+      if (lastVisible) lastVisible.classList.add('pub-noborder');
+    }
+    updateEdge();
     btn.addEventListener('click', function () {
       expanded = !expanded;
       hidden.forEach(function (el) { el.classList.toggle('pub-collapsed', !expanded); });
+      updateEdge();
       btn.textContent = expanded ? lessText : moreText;
     });
 

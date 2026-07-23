@@ -470,11 +470,16 @@ document.addEventListener('keydown', function (e) { if (e.key === 'Escape') clos
     { anchor: '-arxiv', mode: 'box' },
     { anchor: '-lwzl',  mode: 'box' }
   ];
+  function isAnchor(el) {
+    return el.matches && (el.matches('span.anchor') || !!el.querySelector('span.anchor'));
+  }
   function collect(cfg) {
     var span = document.getElementById(cfg.anchor);
     if (!span) return null;
-    var items = [], listParent = null, node = span.nextElementSibling;
-    while (node && !(node.matches && node.matches('span.anchor'))) {
+    // kramdown wraps the bare <span class="anchor"> in a <p>; iterate from that wrapper's siblings
+    var start = (span.parentElement && span.parentElement.tagName === 'P') ? span.parentElement : span;
+    var items = [], listParent = null, node = start.nextElementSibling;
+    while (node && !isAnchor(node)) {
       if (cfg.mode === 'box') {
         if (node.classList && node.classList.contains('paper-box')) items.push(node);
       } else if (node.tagName === 'UL' && !listParent) {

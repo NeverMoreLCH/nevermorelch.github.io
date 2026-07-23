@@ -466,9 +466,9 @@ document.addEventListener('keydown', function (e) { if (e.key === 'Escape') clos
 (function () {
   var LIMIT = 6;
   var SECTIONS = [
-    { anchor: '-news',  mode: 'li'  },
-    { anchor: '-arxiv', mode: 'box' },
-    { anchor: '-lwzl',  mode: 'box' }
+    { anchor: '-news',  mode: 'li',  name: 'News' },
+    { anchor: '-arxiv', mode: 'box', name: 'Preprint' },
+    { anchor: '-lwzl',  mode: 'box', name: 'Publications' }
   ];
   function isAnchor(el) {
     return el.matches && (el.matches('span.anchor') || !!el.querySelector('span.anchor'));
@@ -503,11 +503,13 @@ document.addEventListener('keydown', function (e) { if (e.key === 'Escape') clos
     btn.type = 'button';
     btn.className = 'show-more-btn';
     var n = hidden.length, expanded = false;
-    btn.textContent = 'Show ' + n + ' more ▾';
+    var moreText = 'Show ' + n + ' more ' + cfg.name + ' ▾';
+    var lessText = 'Show less ' + cfg.name + ' ▴';
+    btn.textContent = moreText;
     btn.addEventListener('click', function () {
       expanded = !expanded;
       hidden.forEach(function (el) { el.classList.toggle('pub-collapsed', !expanded); });
-      btn.textContent = expanded ? 'Show less ▴' : ('Show ' + n + ' more ▾');
+      btn.textContent = expanded ? lessText : moreText;
     });
 
     if (cfg.mode === 'li' && r.listParent) {

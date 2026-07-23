@@ -60,8 +60,8 @@ If you are interested, please feel free to reach out via email (can be found bel
 - [Jan'2025] **One** paper is accepted by <u>ICLR 2025</u>.
 - [Dec'2024] **One** paper is accepted by <u>AAAI 2025</u>.
 - [Sep'2024] **Two** papers (1 spotlight) are accepted by <u>NeurIPS 2024</u>.
-- [Jul'2024] **One** paper is accepted by <u>ECCV 2024</u>.
 - [Sep'2024] **One** paper (1 main) is accepted by <u>EMNLP 2024</u>.
+- [Jul'2024] **One** paper is accepted by <u>ECCV 2024</u>.
 - [Feb'2023] **One** paper is accepted by <u>CVPR 2023</u>.
 - [Dec'2021] **One** paper is accepted by <u>AAAI 2022</u>.
 

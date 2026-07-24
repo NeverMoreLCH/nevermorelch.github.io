@@ -207,3 +207,26 @@ h1:before, .anchor:before {
 .show-more-btn:hover { background: #00369f; color: #fff; }
 .pub-collapsed { display: none !important; }
 .paper-box.pub-noborder { border-bottom: none; }
+
+/* ---- live GitHub star pill (before the Technical Report title) ---- */
+.gh-star {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0 8px;
+  margin-right: 6px;
+  height: 20px;
+  border: 1px solid #d0d7de;
+  border-radius: 999px;
+  background: #f6f8fa;
+  font-size: 0.78em;
+  line-height: 1;
+  color: #24292f !important;
+  text-decoration: none !important;
+  vertical-align: middle;
+  transition: background .2s, border-color .2s;
+}
+.gh-star:hover { background: #eef1f4; border-color: #afb8c1; }
+.gh-star .gh-star-mark { flex: 0 0 auto; }
+.gh-star .gh-star-icon { color: #e3b341; }
+.gh-star .gh-star-count { font-weight: 600; }

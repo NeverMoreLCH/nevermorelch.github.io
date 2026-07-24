@@ -71,7 +71,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('n0jIEg7taTI')"><iframe src="https://www.youtube.com/embed/n0jIEg7taTI?autoplay=1&mute=1&loop=1&playlist=n0jIEg7taTI&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="AlayaWorld demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
-  <a class="gh-star" href="https://github.com/AlayaLab/AlayaWorld" target="_blank" rel="noopener" data-repo="AlayaLab/AlayaWorld" title="Star AlayaWorld on GitHub"><svg class="gh-star-mark" viewBox="0 0 16 16" width="13" height="13" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-star-icon">★</span><span class="gh-star-count">696</span></a> **AlayaWorld: Long-Horizon and Playable Video World Generation**
+  **AlayaWorld: Long-Horizon and Playable Video World Generation**
   - Alaya Lab (`Chuanhao Li` as **Lead** and **Core Contributor**)
   - [Technical Report] [[intro report]](https://arxiv.org/abs/2607.06291) [[full report]](https://arxiv.org/abs/2607.18367) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
 </div>
@@ -198,7 +198,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**
   - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Wenshuo Peng, Yuwei Wu📧, Bo Zheng, `Chuanhao Li`📧, and Kaipeng Zhang📧.
-  - [ECCV 2026] [[paper]](https://arxiv.org/abs/2603.23497) [[code]](https://shandaai.github.io/wildworld-project/)
+  - [ECCV 2026] [[paper]](https://arxiv.org/abs/2603.23497) [[code]](https://github.com/AlayaLab/WildWorld)
 </div>
 </div>
 
@@ -254,7 +254,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **Yume1.5: A Text-Controlled Interactive World Generation Model**
   - Xiaofeng Mao, Zhen Li, `Chuanhao Li`, Xiaojie Xu, Kaining Ying, Tong He, Jiangmiao Pang, Yu Qiao, and Kaipeng Zhang📧.
-  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.22096)
+  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.22096) [[code]](https://github.com/stdstu12/YUME)
 </div>
 </div>
 
@@ -262,7 +262,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **SVBench: Evaluation of Video Generation Models on Social Reasoning**
   - Wenshuo Peng, Gongxuan Wang, Tianmeng Yang, `Chuanhao Li`, Xiaojie Xu, Hui He, and Kaipeng Zhang📧.
-  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.21507)
+  - [CVPR 2026] [[paper]](https://arxiv.org/abs/2512.21507) [[code]](https://github.com/Gloria2tt/SVBench-Evaluation)
 </div>
 </div>
 
@@ -531,19 +531,61 @@ document.addEventListener('keydown', function (e) { if (e.key === 'Escape') clos
   });
 })();
 
-// ---- live GitHub star count for the Technical Report ----
+// ---- live GitHub star pill: for every paper with a repo and > 100 stars, show it before the title ----
 (function () {
-  var el = document.querySelector('.gh-star[data-repo]');
-  if (!el) return;
-  var countEl = el.querySelector('.gh-star-count');
-  fetch('https://api.github.com/repos/' + el.getAttribute('data-repo'))
-    .then(function (r) { return r.ok ? r.json() : null; })
-    .then(function (d) {
-      if (!d || typeof d.stargazers_count !== 'number') return; // keep fallback on failure
-      var n = d.stargazers_count;
-      countEl.textContent = n >= 1000 ? (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k' : n;
-    })
-    .catch(function () {});
+  var THRESHOLD = 100;                 // only show if stars > 100
+  var CACHE_TTL = 6 * 3600 * 1000;     // cache star counts 6h to limit API calls
+  var GH_MARK = '<svg class="gh-star-mark" viewBox="0 0 16 16" width="13" height="13" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>';
+
+  function fmt(n) { return n >= 1000 ? (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k' : n; }
+
+  function cacheGet(repo) {
+    try {
+      var o = JSON.parse(localStorage.getItem('ghstar:' + repo) || 'null');
+      return (o && Date.now() - o.t < CACHE_TTL) ? o.n : null;
+    } catch (e) { return null; }
+  }
+  function cacheSet(repo, n) {
+    try { localStorage.setItem('ghstar:' + repo, JSON.stringify({ n: n, t: Date.now() })); } catch (e) {}
+  }
+
+  function repoOf(box) {
+    var links = box.querySelectorAll('.paper-box-text a[href*="github.com/"]');
+    for (var i = 0; i < links.length; i++) {
+      var m = links[i].getAttribute('href').match(/^https?:\/\/github\.com\/([^\/#?]+)\/([^\/#?]+)/i);
+      if (m) return m[1] + '/' + m[2].replace(/\.git$/, '');
+    }
+    return null;
+  }
+
+  function place(box, repo, n) {
+    if (n <= THRESHOLD || box.querySelector('.gh-star')) return;
+    var strong = box.querySelector('.paper-box-text strong');
+    if (!strong) return;
+    var a = document.createElement('a');
+    a.className = 'gh-star';
+    a.href = 'https://github.com/' + repo;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.title = 'Star ' + repo + ' on GitHub';
+    a.innerHTML = GH_MARK + '<span class="gh-star-icon">★</span><span class="gh-star-count">' + fmt(n) + '</span>';
+    strong.parentNode.insertBefore(a, strong);
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.paper-box'), function (box) {
+    var repo = repoOf(box);
+    if (!repo) return;
+    var cached = cacheGet(repo);
+    if (cached !== null) { place(box, repo, cached); return; }
+    fetch('https://api.github.com/repos/' + repo)
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (!d || typeof d.stargazers_count !== 'number') return;
+        cacheSet(repo, d.stargazers_count);
+        place(box, repo, d.stargazers_count);
+      })
+      .catch(function () {});
+  });
 })();
 </script>
 

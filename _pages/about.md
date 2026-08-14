@@ -74,7 +74,8 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('_hhhqZYEUck')"><iframe src="https://www.youtube.com/embed/_hhhqZYEUck?autoplay=1&mute=1&loop=1&playlist=_hhhqZYEUck&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="Alaya-EVOKE demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
   **Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**
-  - Yuanyang Yin, Gongxuan Wang, Yifan Zhan, `Chuanhao Li`, Kaipeng Zhang, and Feng Zhao (`Chuanhao Li` as **Project Lead**).
+  - Yuanyang Yin, Gongxuan Wang, Yifan Zhan, `Chuanhao Li`, Kaipeng Zhang, and Feng Zhao.
+  - (`Chuanhao Li` as **Project Lead**)
   - [Technical Report] [[paper]](https://arxiv.org/abs/2608.13546) [[homepage]](https://evoke-world.github.io/Evoke/) [[youtube]](https://www.youtube.com/watch?v=_hhhqZYEUck) [[code]](https://github.com/SII-YuanyangYin/Evoke)
 </div>
 </div>

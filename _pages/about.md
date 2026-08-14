@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Aug'2026] We release the **v1.1 full technical report** of **[AlayaWorld](https://arxiv.org/abs/2608.13492)**.
 - [Aug'2026] We release **[Alaya-EVOKE](https://arxiv.org/abs/2608.13546)**, an interactive world model with externalized persistent memory that enables long-horizon, endless-world generation at bounded computational cost.
 - [Jul'2026] We release the **full technical report** of **[AlayaWorld](https://arxiv.org/abs/2607.18367)**.
 - [Jul'2026] **One** paper is accepted by <u>SIGGRAPH Asia 2026</u>.
@@ -82,7 +83,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **AlayaWorld: Long-Horizon and Playable Video World Generation**
   - Alaya Lab (`Chuanhao Li` as **Lead** and **Core Contributor**)
-  - [Technical Report] [[intro report]](https://arxiv.org/abs/2607.06291) [[full report]](https://arxiv.org/abs/2607.18367) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
+  - [Technical Report] [[intro report]](https://arxiv.org/abs/2607.06291) [[full report v1.0]](https://arxiv.org/abs/2607.18367) [[full report v1.1]](https://arxiv.org/abs/2608.13492) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
 </div>
 </div>
 

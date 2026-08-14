@@ -83,7 +83,8 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('n0jIEg7taTI')"><iframe src="https://www.youtube.com/embed/n0jIEg7taTI?autoplay=1&mute=1&loop=1&playlist=n0jIEg7taTI&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="AlayaWorld demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
   **AlayaWorld: Long-Horizon and Playable Video World Generation**
-  - Alaya Lab (`Chuanhao Li` as **Lead** and **Core Contributor**)
+  - Alaya Lab
+  - (`Chuanhao Li` as **Project Lead** and **Core Contributor**)
   - [Technical Report] [[intro report]](https://arxiv.org/abs/2607.06291) [[full report v1.0]](https://arxiv.org/abs/2607.18367) [[full report v1.1]](https://arxiv.org/abs/2608.13492) [[homepage]](https://alaya-lab.github.io/AlayaWorld/) [[youtube]](https://www.youtube.com/watch?v=n0jIEg7taTI) [[code]](https://github.com/AlayaLab/AlayaWorld)
 </div>
 </div>

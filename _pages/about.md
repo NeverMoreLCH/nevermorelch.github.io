@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Aug'2026] We release **[Alaya-EVOKE](https://arxiv.org/abs/2608.13546)**, an interactive world model with externalized persistent memory that enables long-horizon, endless-world generation at bounded computational cost.
 - [Jul'2026] We release the **full technical report** of **[AlayaWorld](https://arxiv.org/abs/2607.18367)**.
 - [Jul'2026] **One** paper is accepted by <u>SIGGRAPH Asia 2026</u>.
 - [Jul'2026] We release **[AlayaWorld](https://alaya-lab.github.io/AlayaWorld/)**, an interactive autoregressive world model with real-time camera control, prompt switching, and long-horizon memory consistency.
@@ -68,6 +69,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-report'></span>
 
 # 🚀 Technical Report
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('_hhhqZYEUck')"><iframe src="https://www.youtube.com/embed/_hhhqZYEUck?autoplay=1&mute=1&loop=1&playlist=_hhhqZYEUck&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="Alaya-EVOKE demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
+<div class='paper-box-text' markdown="1">
+  **Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**
+  - Yuanyang Yin, Gongxuan Wang, Yifan Zhan, `Chuanhao Li`, Kaipeng Zhang, and Feng Zhao (`Chuanhao Li` as **Project Lead**).
+  - [Technical Report] [[paper]](https://arxiv.org/abs/2608.13546) [[youtube]](https://www.youtube.com/watch?v=_hhhqZYEUck)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('n0jIEg7taTI')"><iframe src="https://www.youtube.com/embed/n0jIEg7taTI?autoplay=1&mute=1&loop=1&playlist=n0jIEg7taTI&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="AlayaWorld demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">

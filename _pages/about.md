@@ -100,7 +100,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **Marionette: Predicting World States, Rendering Geometry, Painting Appearance**
   - Zian Meng, Zhen Li, `Chuanhao Li`, Qiang Li, and Kaipeng Zhang.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2608.14530)
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2608.14530) [[homepage]](https://alayalab.github.io/Marionette/) [[code]](https://github.com/AlayaLab/Marionette)
 </div>
 </div>
 

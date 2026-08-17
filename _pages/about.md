@@ -96,6 +96,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-marionette.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **Marionette: Predicting World States, Rendering Geometry, Painting Appearance**
+  - Zian Meng, Zhen Li, `Chuanhao Li`, Qiang Li, and Kaipeng Zhang.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2608.14530)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-zeroth.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Beyond the Capability Boundary: Zeroth-Order Optimization for Self-Evolving LLM Agents**

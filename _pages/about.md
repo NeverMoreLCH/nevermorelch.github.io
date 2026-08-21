@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Aug'2026] **Two** papers (2 main) are accepted by <u>EMNLP 2026</u>.
 - [Aug'2026] We release the **v1.1 full technical report** of **[AlayaWorld](https://arxiv.org/abs/2608.13492)**.
 - [Aug'2026] We release **[Alaya-EVOKE](https://arxiv.org/abs/2608.13546)**, an interactive world model with externalized persistent memory that enables long-horizon, endless-world generation at bounded computational cost.
 - [Jul'2026] We release the **full technical report** of **[AlayaWorld](https://arxiv.org/abs/2607.18367)**.
@@ -128,14 +129,6 @@ If you are interested, please feel free to reach out via email (can be found bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-jamer.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines**
-  - Jianwen Sun, `Chuanhao Li`, Zizhen Li, Yukang Feng, Fanrui Zhang, Yifei Huang, Yu Dai, and Kaipeng Zhang📧.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2606.19830)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-autobg.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **AutoBG: A Board Game Design Assistant with Interactive Ideation, Iterative Rulebook Generation, and Individualized Feedback**
@@ -165,14 +158,6 @@ If you are interested, please feel free to reach out via email (can be found bel
   **Multi-Step Reasoning for Embodied Question Answering via Tool Augmentation**
   - Mingliang Zhai<span style="color:red;">*</span>, Hansheng Liang<span style="color:red;">*</span>, Xiaomeng Fan<span style="color:red;">*</span>, Zhi Gao, `Chuanhao Li`, Che Sun, Xu Bin, Yuwei Wu, and Yunde Jia.
   - [arXiv 2025] [[paper]](https://arxiv.org/abs/2510.20310)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-lishilong.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents**
-  - Shilong Li<span style="color:red;">*</span>, Xingyuan Bu<span style="color:red;">*</span>📧, ..., `Chuanhao Li`, ..., Ruizhe Ding, and Shilei Wen📧.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2508.13186) [[code]](https://github.com/MMBrowseComp/MM-BrowseComp) [[dataset]](https://huggingface.co/datasets/mmbrowsecomp/MMBrowseComp)
 </div>
 </div>
 
@@ -213,6 +198,22 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/thumbnail/2026-arxiv-jamer.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines**
+  - Jianwen Sun, `Chuanhao Li`, Zizhen Li, Yukang Feng, Fanrui Zhang, Yifei Huang, Yu Dai, and Kaipeng Zhang📧.
+  - [EMNLP 2026] [Main Conference] [[paper]](https://arxiv.org/abs/2606.19830)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/thumbnail/2025-arxiv-lishilong.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents**
+  - Shilong Li<span style="color:red;">*</span>, Xingyuan Bu<span style="color:red;">*</span>📧, ..., `Chuanhao Li`, ..., Ruizhe Ding, and Shilei Wen📧.
+  - [EMNLP 2026] [Main Conference] [[paper]](https://arxiv.org/abs/2508.13186) [[code]](https://github.com/MMBrowseComp/MM-BrowseComp) [[dataset]](https://huggingface.co/datasets/mmbrowsecomp/MMBrowseComp)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/thumbnail/2026-sigasia-mugen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

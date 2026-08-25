@@ -267,7 +267,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**
   - Zizhen Li, `Chuanhao Li`, Yibin Wang, Yukang Feng, Jianwen Sun, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, and Kaipeng Zhang📧.
-  - [ACL 2026] [Main Conference] [[paper]](https://arxiv.org/abs/2601.07251) [[code]](https://github.com/leroy9472/MeepleLM)
+  - [ACL 2026] [Main Conference] **[Oral]** [[paper]](https://arxiv.org/abs/2601.07251) [[code]](https://github.com/leroy9472/MeepleLM)
 </div>
 </div>
 

@@ -50,6 +50,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 - [Jul'2026] **One** paper is accepted by <u>SIGGRAPH Asia 2026</u>.
 - [Jul'2026] We release **[AlayaWorld](https://alaya-lab.github.io/AlayaWorld/)**, an interactive autoregressive world model with real-time camera control, prompt switching, and long-horizon memory consistency.
 - [Jun'2026] **Four** papers are accepted by <u>ECCV 2026</u>.
+- [Jun'2026] **One** paper is accepted by <u>TMLR</u>.
 - [May'2026] **One** paper is accepted by <u>ICML 2026</u>.
 - [Apr'2026] **Two** papers (1 main, 1 findings) are accepted by <u>ACL 2026</u>.
 - [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
@@ -177,14 +178,6 @@ If you are interested, please feel free to reach out via email (can be found bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-sun.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
-  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang📧.
-  - [arXiv 2025] [[paper]](https://arxiv.org/abs/2503.06542) [[code]](https://armor.github.io/)
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/thumbnail/2025-arxiv-chang.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -252,6 +245,14 @@ If you are interested, please feel free to reach out via email (can be found bel
   **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
   - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang📧.
   - [ECCV 2026] [[paper]](https://arxiv.org/abs/2512.16300)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/thumbnail/2025-arxiv-sun.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **ARMOR: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**
+  - Jianwen Sun<span style="color:red;">*</span>, Yukang Feng<span style="color:red;">*</span>, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Pengfei Zhou, Yu Dai, Shenglin Zhang, and Kaipeng Zhang📧.
+  - [TMLR 2026] [[paper]](https://arxiv.org/abs/2503.06542) [[code]](https://armor.github.io/)
 </div>
 </div>
 

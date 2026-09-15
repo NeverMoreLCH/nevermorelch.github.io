@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Sep'2026] We release **[AlayaVista](https://arxiv.org/abs/2609.14462)**, a camera-controllable streaming world model that evolves panoramic latent states and renders high-fidelity perspective videos.
 - [Aug'2026] **Two** papers (2 main) are accepted by <u>EMNLP 2026</u>.
 - [Aug'2026] We release the **v1.1 full technical report** of **[AlayaWorld](https://arxiv.org/abs/2608.13492)**.
 - [Aug'2026] We release **[Alaya-EVOKE](https://arxiv.org/abs/2608.13546)**, an interactive world model with externalized persistent memory that enables long-horizon, endless-world generation at bounded computational cost.
@@ -72,6 +73,15 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-report'></span>
 
 # 🚀 Technical Report
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openMp4Modal('https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4')"><video src="https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4" title="AlayaVista demo" autoplay muted loop playsinline preload="metadata"></video><span class="video-play">▶</span></div></div></div>
+<div class='paper-box-text' markdown="1">
+  **AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video**
+  - Jiaming Tan, Mingliang Zhai, Zhen Li, Yuwei Wu, `Chuanhao Li`📧, and Kaipeng Zhang.
+  - (`Chuanhao Li` as **Project Lead** and **Corresponding Author**)
+  - [Technical Report] [[paper]](https://arxiv.org/abs/2609.14462) [[homepage]](https://huggingface.co/papers/2609.14462) [[video]](https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4) [[code]](https://github.com/AlayaLab/AlayaVista)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openVideoModal('QX7PBBaBGdc')"><iframe src="https://www.youtube.com/embed/QX7PBBaBGdc?autoplay=1&mute=1&loop=1&playlist=QX7PBBaBGdc&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1" title="Alaya-EVOKE demo" allow="autoplay; encrypted-media"></iframe><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
@@ -469,7 +479,10 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div id="video-modal" class="video-modal" onclick="closeVideoModal(event)">
   <div class="video-modal-inner">
     <span class="video-modal-close" onclick="closeVideoModal(event)">&times;</span>
-    <div class="video-modal-frame"><iframe id="video-modal-iframe" src="" title="video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe></div>
+    <div class="video-modal-frame">
+      <iframe id="video-modal-iframe" src="" title="video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+      <video id="video-modal-video" title="video" controls playsinline hidden></video>
+    </div>
   </div>
 </div>
 
@@ -478,17 +491,40 @@ If you are interested, please feel free to reach out via email (can be found bel
 function openVideoModal(id) {
   var m = document.getElementById('video-modal');
   var f = document.getElementById('video-modal-iframe');
+  var v = document.getElementById('video-modal-video');
+  v.hidden = true;
+  v.pause();
+  v.removeAttribute('src');
   f.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0&playsinline=1';
+  f.hidden = false;
   m.classList.add('open');
   document.body.style.overflow = 'hidden';
+}
+function openMp4Modal(url) {
+  var m = document.getElementById('video-modal');
+  var f = document.getElementById('video-modal-iframe');
+  var v = document.getElementById('video-modal-video');
+  f.src = '';
+  f.hidden = true;
+  v.src = url;
+  v.hidden = false;
+  m.classList.add('open');
+  document.body.style.overflow = 'hidden';
+  var play = v.play();
+  if (play && play.catch) play.catch(function () {});
 }
 function closeVideoModal(e) {
   // ignore clicks that land inside the player itself
   if (e && e.target && e.target.closest && e.target.closest('.video-modal-frame')) return;
   var m = document.getElementById('video-modal');
   var f = document.getElementById('video-modal-iframe');
+  var v = document.getElementById('video-modal-video');
   m.classList.remove('open');
   f.src = '';
+  v.pause();
+  v.removeAttribute('src');
+  v.load();
+  v.hidden = true;
   document.body.style.overflow = '';
 }
 document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeVideoModal(); });

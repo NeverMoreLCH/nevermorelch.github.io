@@ -79,7 +79,7 @@ If you are interested, please feel free to reach out via email (can be found bel
   **AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video**
   - Jiaming Tan, Mingliang Zhai, Zhen Li, Yuwei Wu, `Chuanhao Li`, and Kaipeng Zhang.
   - (`Chuanhao Li` as **Project Lead** and **Corresponding Author**)
-  - [Technical Report] [[paper]](https://arxiv.org/abs/2609.14462) [[homepage]](https://huggingface.co/papers/2609.14462) [[video]](https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4) [[code]](https://github.com/AlayaLab/AlayaVista)
+  - [Technical Report] [[paper]](https://arxiv.org/abs/2609.14462) [[homepage]](https://alaya-lab.github.io/AlayaVista/) [[video]](https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4) [[code]](https://github.com/AlayaLab/AlayaVista)
 </div>
 </div>
 

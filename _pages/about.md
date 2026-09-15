@@ -77,7 +77,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><div class="video-thumb fitvidsignore" onclick="openMp4Modal('https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4')"><video src="https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4" title="AlayaVista demo" autoplay muted loop playsinline preload="metadata"></video><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
   **AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video**
-  - Jiaming Tan, Mingliang Zhai, Zhen Li, Yuwei Wu, `Chuanhao Li`📧, and Kaipeng Zhang.
+  - Jiaming Tan, Mingliang Zhai, Zhen Li, Yuwei Wu, `Chuanhao Li`, and Kaipeng Zhang.
   - (`Chuanhao Li` as **Project Lead** and **Corresponding Author**)
   - [Technical Report] [[paper]](https://arxiv.org/abs/2609.14462) [[homepage]](https://huggingface.co/papers/2609.14462) [[video]](https://alaya-lab.github.io/AlayaVista/assets/AlayaVista_intro_homepage_music.mp4) [[code]](https://github.com/AlayaLab/AlayaVista)
 </div>

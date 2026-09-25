@@ -203,7 +203,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/thumbnail/2026-neurips-gameverse.png' alt="GameVerse dataset pipeline and statistics"></div></div>
 <div class='paper-box-text' markdown="1">
   **GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon**
   - Kang He, Wenshuo Peng, `Chuanhao Li`, Zihui Gao, Xiaojie Xu, Zhengyuan Lin, Yuzhe Ding, Donghong Ji, Kaipeng Zhang, and Yongtao Ge.

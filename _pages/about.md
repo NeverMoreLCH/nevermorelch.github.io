@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Sep'2026] **One** paper is accepted by <u>NeurIPS 2026</u>.
 - [Sep'2026] We release **[AlayaVista](https://arxiv.org/abs/2609.14462)**, a camera-controllable streaming world model that evolves panoramic latent states and renders high-fidelity perspective videos.
 - [Aug'2026] **Two** papers (2 main) are accepted by <u>EMNLP 2026</u>.
 - [Aug'2026] We release the **v1.1 full technical report** of **[AlayaWorld](https://arxiv.org/abs/2608.13492)**.
@@ -201,6 +202,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 # 📝 Selected Publications
 <p style="color:red;"><strong>* indicates equal contribution, 📧 indicates corresponding author</strong></p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div></div></div>
+<div class='paper-box-text' markdown="1">
+  **GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon**
+  - Kang He, Wenshuo Peng, `Chuanhao Li`, Zihui Gao, Xiaojie Xu, Zhengyuan Lin, Yuzhe Ding, Donghong Ji, Kaipeng Zhang, and Yongtao Ge.
+  - [NeurIPS 2026]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/thumbnail/2026-arxiv-jamer.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

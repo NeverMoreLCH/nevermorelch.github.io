@@ -229,7 +229,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/thumbnail/2026-sigasia-mugen.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-  **Interactive Panoramic World Exploration via Camera Control**
+  **MUGEN: Interactive Panoramic World Exploration via Camera Control**
   - Jiaming Tan, Zhen Li, Shuwei Shi, Minggui Teng, Siqi Yang, Yuwei Wu📧, Bo Zheng, Kaipeng Zhang📧, and `Chuanhao Li`📧.
   - [SIGGRAPH Asia 2026] [[paper]](https://arxiv.org/abs/2609.38077) [[homepage]](https://alaya-lab.github.io/MUGEN/) [[code]](https://github.com/AlayaLab/MUGEN) [[data]](https://huggingface.co/datasets/AlayaLab/MUGEN)
 </div>

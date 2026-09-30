@@ -231,7 +231,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **Interactive Panoramic World Exploration via Camera Control**
   - Jiaming Tan, Zhen Li, Shuwei Shi, Minggui Teng, Siqi Yang, Yuwei Wu📧, Bo Zheng, Kaipeng Zhang📧, and `Chuanhao Li`📧.
-  - [SIGGRAPH Asia 2026] [[paper]](https://arxiv.org/abs/2609.38077)
+  - [SIGGRAPH Asia 2026] [[paper]](https://arxiv.org/abs/2609.38077) [[homepage]](https://alaya-lab.github.io/MUGEN/) [[code]](https://github.com/AlayaLab/MUGEN) [[data]](https://huggingface.co/datasets/AlayaLab/MUGEN)
 </div>
 </div>
 

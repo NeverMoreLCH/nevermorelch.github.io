@@ -55,7 +55,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 - [Jun'2026] **One** paper is accepted by <u>TMLR 2026</u>.
 - [May'2026] **One** paper is accepted by <u>ICML 2026</u>.
 - [Apr'2026] **Two** papers (1 main, 1 findings) are accepted by <u>ACL 2026</u>.
-- [Feb'2026] **Three** papers are accepted by <u>CVPR 2026</u>.
+- [Feb'2026] **Four** papers (3 main, 1 findings) are accepted by <u>CVPR 2026</u>.
 - [Jan'2026] **One** paper is accepted by <u>ICLR 2026</u>.
 - [Jan'2026] **One** paper is accepted by <u>WWW 2026</u>.
 - [Dec'2025] **Two** papers are accepted by <u>AAAI 2026</u>.
@@ -320,6 +320,14 @@ If you are interested, please feel free to reach out via email (can be found bel
   **ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments**
   - Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, `Chuanhao Li`, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, and Kaipeng Zhang📧.
   - [CVPR 2026] [[paper]](https://arxiv.org/abs/2601.02399)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/thumbnail/2026-cvpr-findings-learning-pathways.png' alt="Learning pathways evaluation overview"></div></div>
+<div class='paper-box-text' markdown="1">
+  **From Static Snapshots to Dynamic Trajectories: Evaluating and Enhancing the Learning Pathways of Multimodal Large Language Models**
+  - Yukang Feng<span style="color:red;">*</span>, Wenxiao Wu<span style="color:red;">*</span>, Jianwen Sun<span style="color:red;">*</span>, `Chuanhao Li`, Fanrui Zhang, Zizhen Li, Jiaxin Ai, Sizhuo Zhou, Yifan Chang, Changxin Gao, Shenglin Zhang, and Kaipeng Zhang📧.
+  - [CVPR 2026] [Findings] [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/papers/Feng_From_Static_Snapshots_to_Dynamic_Trajectories_Evaluating_and_Enhancing_the_CVPRF_2026_paper.pdf)
 </div>
 </div>
 

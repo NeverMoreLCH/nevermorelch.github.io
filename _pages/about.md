@@ -125,14 +125,6 @@ If you are interested, please feel free to reach out via email (can be found bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-black.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-  **From Pixels to States: Rethinking Interactive World Models as Game Engines**
-  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Mingliang Zhai, Jiaming Tan, `Chuanhao Li`📧, and Kaipeng Zhang📧.
-  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2607.14076)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-agenticsts.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents**
@@ -264,6 +256,14 @@ If you are interested, please feel free to reach out via email (can be found bel
   **Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**
   - Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, `Chuanhao Li`, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, and Kaipeng Zhang📧.
   - [ECCV 2026] [[paper]](https://arxiv.org/abs/2512.16300)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 AIW</div><img src='images/thumbnail/2026-arxiv-black.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+  **From Pixels to States: Rethinking Interactive World Models as Game Engines**
+  - Zhen Li<span style="color:red;">*</span>, Zian Meng<span style="color:red;">*</span>, Shuwei Shi, Mingliang Zhai, Jiaming Tan, `Chuanhao Li`📧, and Kaipeng Zhang📧.
+  - [ECCV 2026] [Workshop AIW] **[Oral]** [[paper]](https://arxiv.org/abs/2607.14076)
 </div>
 </div>
 

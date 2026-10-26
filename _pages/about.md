@@ -481,7 +481,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Activities
-- Conference Reviewer of MM2025, ICCV 2025, ICML 2025, IJCAI 2025, CVPR 2024, NeurIPS 2024, MM 2024, etc.
+- Conference Reviewer of ACL-ARR, CVPR, ECCV, ICCV, ICLR, ICML, IJCAI, MM, NeurIPS, etc.
 - Journal Reviewer of T-MM.
 - Invited Speaker in [The 3rd SMBU-BIT Machine Intelligence Graduate Student Forum](https://www.smbu.edu.cn/zskxwhj/info/1097/3708.htm).
 - Invited Speaker in [The 1st Interactive Intelligence Symposium 2026](https://interactive-intelligence-lab.github.io/iis2026-ws-webpage/).

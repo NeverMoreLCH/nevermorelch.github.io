@@ -199,7 +199,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <div class='paper-box-text' markdown="1">
   **GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling**
   - Kang He, Wenshuo Peng, `Chuanhao Li`, Zihui Gao, Xiaojie Xu, Zhengyuan Lin, Yuzhe Ding, Donghong Ji, Kaipeng Zhang, and Yongtao Ge.
-  - [NeurIPS 2026]
+  - [NeurIPS 2026] [[paper]](https://arxiv.org/pdf/2610.37257) [[homepage]](https://kangverse.github.io/GameVerse/) [[dataset]](https://huggingface.co/datasets/Kangverse/GameVerse) [[code]](https://github.com/kangverse/GameVerse)
 </div>
 </div>
 

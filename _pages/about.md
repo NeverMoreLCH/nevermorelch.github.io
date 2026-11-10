@@ -43,6 +43,7 @@ If you are interested, please feel free to reach out via email (can be found bel
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- [Nov'2026] We release **[MeshAxiom](https://alaya-lab.github.io/MeshAxiom/)**, an agent-native 3D foundation stack for programmable worlds.
 - [Sep'2026] **One** paper is accepted by <u>NeurIPS 2026</u>.
 - [Sep'2026] We release **[AlayaVista](https://arxiv.org/abs/2609.14462)**, a camera-controllable streaming world model that evolves panoramic latent states and renders high-fidelity perspective videos.
 - [Aug'2026] **Two** papers (2 main) are accepted by <u>EMNLP 2026</u>.

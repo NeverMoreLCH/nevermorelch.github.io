@@ -109,6 +109,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><div class="video-thumb fitvidsignore" onclick="openMp4Modal('https://lightchaserx.github.io/assets/pub/2026/meshaxiom/Yu2026MeshAxiom.mp4')"><video src="https://lightchaserx.github.io/assets/pub/2026/meshaxiom/Yu2026MeshAxiom.mp4" title="MeshAxiom demo" autoplay muted loop playsinline preload="metadata"></video><span class="video-play">▶</span></div></div></div>
+<div class='paper-box-text' markdown="1">
+  **MeshAxiom: An Agent-Native 3D Foundation Stack for Programmable Worlds**
+  - Yonghao Yu, Ruihan Yu, Sho Kuno, Muyao Niu, Yu-Ju Tsai, Zheng-Hui Huang, Fengbo Lan, Guixu Lin, Runyi Li, `Chuanhao Li`, Ming-Hsuan Yang, Kaipeng Zhang📧, and Zhixiang Wang📧.
+  - [2026] [[homepage]](https://alaya-lab.github.io/MeshAxiom/) [[code]](https://github.com/AlayaLab/MeshAxiom) [[model]](https://huggingface.co/AlayaLab/MeshAxiom-Base)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/thumbnail/2026-arxiv-marionette.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   **Marionette: Predicting World States, Rendering Geometry, Painting Appearance**

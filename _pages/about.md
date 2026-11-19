@@ -110,6 +110,14 @@ If you are interested, please feel free to reach out via email (can be found bel
 <!-- <p style="color:blue;"><strong> + indicates corresponding author</strong></p> -->
 <!-- <span style="color:blue;">+</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><div class="video-thumb fitvidsignore" onclick="openMp4Modal('https://alaya-lab.github.io/WorldRuler/assets/videos/hero-combat-v2-20261117.mp4')"><video src="https://alaya-lab.github.io/WorldRuler/assets/videos/hero-combat-v2-20261117.mp4" poster="https://alaya-lab.github.io/WorldRuler/assets/images/hero-combat-v2-20261117.webp" title="WorldRuler demo" autoplay muted loop playsinline preload="metadata"></video><span class="video-play">▶</span></div></div></div>
+<div class='paper-box-text' markdown="1">
+  **WorldRuler: Interactive World Modeling under Configurable Rules**
+  - Mingliang Zhai, `Chuanhao Li`📧, Jiaming Tan, Zhen Li, Yuwei Wu, Yunde Jia, Zian Meng, Yuanyang Yin, and Kaipeng Zhang.
+  - [arXiv 2026] [[paper]](https://arxiv.org/abs/2611.24869) [[homepage]](https://alaya-lab.github.io/WorldRuler/) [[code]](https://github.com/AlayaLab/WorldRuler) [[data]](https://huggingface.co/datasets/AlayaLab/RuleVerse)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><div class="video-thumb fitvidsignore" onclick="openMp4Modal('https://lightchaserx.github.io/assets/pub/2026/meshaxiom/Yu2026MeshAxiom.mp4')"><video src="https://lightchaserx.github.io/assets/pub/2026/meshaxiom/Yu2026MeshAxiom.mp4" title="MeshAxiom demo" autoplay muted loop playsinline preload="metadata"></video><span class="video-play">▶</span></div></div></div>
 <div class='paper-box-text' markdown="1">
   **MeshAxiom: An Agent-Native 3D Foundation Stack for Programmable Worlds**
